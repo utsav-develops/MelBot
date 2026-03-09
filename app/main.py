@@ -2,6 +2,7 @@ from fastapi import FastAPI, Request
 from contextlib import asynccontextmanager
 from app.api.routes import chat, health, push, reminder
 from app.core.model import load_model
+from app.core.agent_model import load_agent_model
 from fastapi.middleware.cors import CORSMiddleware
 
 from fastapi.exceptions import RequestValidationError
@@ -13,6 +14,7 @@ import asyncio
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     load_model()
+    load_agent_model()
     asyncio.create_task(checkin_scheduler())
     yield
 

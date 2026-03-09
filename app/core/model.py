@@ -29,7 +29,7 @@ def load_model():
     model.eval()
 
     gen_config = GenerationConfig(
-        max_new_tokens=80,
+        max_new_tokens=150,
         temperature=0.9,
         repetition_penalty=1.3,
         do_sample=True,
