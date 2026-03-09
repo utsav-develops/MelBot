@@ -1,0 +1,5 @@
+mel/
+frontend/
+.venv/
+.env
+subscriptions.json
