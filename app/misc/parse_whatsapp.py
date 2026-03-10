@@ -3,8 +3,8 @@ import json
 import sys
 
 YOUR_NAME = "Utsav Acharya"
-INPUT_FILE = "_chat.txt"       
-OUTPUT_FILE = "mel_training_data.json"
+INPUT_FILE = "chats/_chat 2.txt"       
+OUTPUT_FILE = "parsed2.json"
 MIN_LENGTH = 2
 MAX_LENGTH = 200              
 

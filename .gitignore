@@ -1,4 +1,5 @@
-mel/
+mel/*
+!mel/dist/
 frontend/
 .venv/
 .env

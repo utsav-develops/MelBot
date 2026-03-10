@@ -12,14 +12,21 @@ def extract_reminder_from_message(message: str) -> dict | None:
     Message: "{message}"
     
     If it IS a reminder, respond with ONLY this JSON:
-    {{"is_reminder": true, "task": "what to remind", "delay_minutes": 10, "confirmation": "Sure! I'll remind you in 10 minutes 💧"}}
+    {{"is_reminder": true, "task": "what to remind", "delay_seconds": 600, "confirmation": "Sure! I'll remind you in 10 minutes 💧"}}
     
     If it is NOT a reminder, respond with ONLY:
     {{"is_reminder": false}}
     
     Rules:
-    - Convert hours to minutes
-    - No time mentioned = 5 minutes default
+    - Always convert to seconds:
+        "30 seconds" = 30
+        "2 minutes"  = 120
+        "1 hour"     = 3600
+        "2 hours"    = 7200
+    - If user says a specific time like "at 3pm" calculate seconds from now
+    - No time mentioned = 300 seconds default (5 minutes)
+    - confirmation should naturally mention the time in human format
+      e.g. "in 30 seconds", "in 2 minutes", "in 1 hour"
     - RAW JSON only. No markdown. No extra text.
     """
 
@@ -34,11 +41,13 @@ def extract_reminder_from_message(message: str) -> dict | None:
         return None
 
 async def schedule_reminder(reminder: Reminder):
+    # create_task fires and forgets — doesn't block the response
     asyncio.create_task(_send_after_delay(reminder))
-    print(f"Reminder scheduled: '{reminder.message}' in {reminder.delay} min")
+    print(f"Reminder scheduled: '{reminder.message}' in {reminder.delay} seconds")
 
 async def _send_after_delay(reminder: Reminder):
-    await asyncio.sleep(reminder.delay * 60)
+    # delay is now in seconds directly — no conversion needed
+    await asyncio.sleep(reminder.delay)
     await send_push(
         message=reminder.message,
         title="Mel Reminder 🤖"

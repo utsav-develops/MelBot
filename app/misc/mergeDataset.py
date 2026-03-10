@@ -6,16 +6,15 @@ def load(path):
     with open(path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-whatsapp   = load('whatsapp_data.json')   # your 1500 pairs
-toughlove  = load('tough_bro_training_data_500.json')  # AI generated 500
-manual     = load('mel_training_data copy.json')  # original 30
+whatsapp   = load('parsed.json')   # your 1500 pairs
+toughlove  = load('parsed2.json')  # AI generated 500
 
 # ── Sample whatsapp down to 700 ─────────────────────────────────────
 random.shuffle(whatsapp)
 whatsapp = whatsapp[:700]
 
 # ── Merge all ───────────────────────────────────────────────────────
-merged = whatsapp + toughlove + manual
+merged = whatsapp + toughlove
 
 # ── Shuffle so model doesn't learn order ────────────────────────────
 random.shuffle(merged)
@@ -30,12 +29,11 @@ for pair in merged:
         cleaned.append(pair)
 
 # ── Save ─────────────────────────────────────────────────────────────
-with open('mel_final_dataset.json', 'w', encoding='utf-8') as f:
+with open('merged_chat_dataset.json', 'w', encoding='utf-8') as f:
     json.dump(cleaned, f, ensure_ascii=False, indent=2)
 
 print(f'WhatsApp pairs  : {len(whatsapp)}')
 print(f'Tough love pairs: {len(toughlove)}')
-print(f'Manual pairs    : {len(manual)}')
 print(f'Total merged    : {len(merged)}')
 print(f'After dedup     : {len(cleaned)}')
-print(f'\n✅ Saved to mel_final_dataset.json')
+print(f'\n✅ Saved to merged_chat_dataset.json')

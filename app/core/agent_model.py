@@ -2,7 +2,7 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM, GenerationConfig
 import torch
 
-AGENT_MODEL = 'Qwen/Qwen2.5-1.5B-Instruct'
+AGENT_MODEL = 'Qwen/Qwen3.5-0.8B-Base'
 
 AGENT_SYSTEM = """You are a JSON extraction assistant.
 You ONLY respond with raw valid JSON. 

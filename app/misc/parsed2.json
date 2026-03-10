@@ -1,0 +1,4522 @@
+[
+  {
+    "input": "bhai around??",
+    "output": "yes da"
+  },
+  {
+    "input": "ki need more details initially nai?",
+    "output": "lemme check da"
+  },
+  {
+    "input": "wait sending all links since all are not linked to one particular page",
+    "output": "oh hus"
+  },
+  {
+    "input": "ekdam very very basic matra xa connected to database already tara",
+    "output": "hmn, mero ma its throwing error? yours working?"
+  },
+  {
+    "input": "type it bhai directly , yeto ta na hunu parne website url ma",
+    "output": "yes nice, its working"
+  },
+  {
+    "input": "eh huss bhai",
+    "output": "web.php error da"
+  },
+  {
+    "input": "ah hola just modified something to add admin settings, wait few minutes working on it",
+    "output": "just ayo"
+  },
+  {
+    "input": "should be fixed",
+    "output": "yes da"
+  },
+  {
+    "input": "hai,,",
+    "output": "yes, community, map & login, registration"
+  },
+  {
+    "input": "aba moving on to admin panel side after just last step of creating auth and error pages 11th step bhai",
+    "output": "ohh, 10 & 100"
+  },
+  {
+    "input": "fixing this",
+    "output": "right, this & 6 too error"
+  },
+  {
+    "input": "no wait sayed wrong url",
+    "output": "oh"
+  },
+  {
+    "input": "humm error ayexa, yeuta garda arko bigreko awastha jasto xa",
+    "output": "haha tei"
+  },
+  {
+    "input": "aru thaakai xa hai bhai ahile initial stage lai",
+    "output": "yes da, aru teti nei socheko thiye maile ni"
+  },
+  {
+    "input": "nice",
+    "output": ":)"
+  },
+  {
+    "input": "now moving towards admin panel hai",
+    "output": "ae okok🤣"
+  },
+  {
+    "input": "but will make a table for that and a page too",
+    "output": "hmnn true"
+  },
+  {
+    "input": "yes bhai",
+    "output": "oh hus"
+  },
+  {
+    "input": "all done bhai , sales also create forsale is the url",
+    "output": "nice hus"
+  },
+  {
+    "input": "i know it needs few changes ,, but will do it later , just wanted very basic structure where we can construct this application upon",
+    "output": "right da"
+  },
+  {
+    "input": "bare bone is ready basically",
+    "output": "yes, we will too start phone tomorrow or after tomoroow"
+  },
+  {
+    "input": "ma backend ma admin panel add garxu,, rest ta backend ma add garne bhaneko yo side alidherai construct hundai garepaxi ho",
+    "output": "yes da, functions and all"
+  },
+  {
+    "input": "yo application is straightforward and easy jasto lagxa malai",
+    "output": "yes, community side will be tricky"
+  },
+  {
+    "input": "start ma aba dhyan dinu parne bhaneko geolocation based signup phon enumber otp",
+    "output": "right, ki use email?"
+  },
+  {
+    "input": "location nai important hunxa yesma initial setup lai",
+    "output": "halka secure nahola hai"
+  },
+  {
+    "input": "either email or phone",
+    "output": "email can save us huge cost"
+  },
+  {
+    "input": "so we can grab social media ko contact",
+    "output": "yes, google ra apple we will integrate"
+  },
+  {
+    "input": "phone ma install bhaye phone contacts and ask permission to send message to their contacts further , so information about our system spreads rapidly",
+    "output": "oh right, can use that hai"
+  },
+  {
+    "input": "yes bhai speedy growth hunxa",
+    "output": "ho ho"
+  },
+  {
+    "input": "yeutai ko mobil eko contacts access garera further message send garda ta",
+    "output": "yes, number matrei vayepani, we can do text marketing"
+  },
+  {
+    "input": "so we can use email too.. phone ma install bhaye we can still use their phone contacts",
+    "output": "yes da"
+  },
+  {
+    "input": "us lai bhaye .com ma janxa yeniharu ko",
+    "output": "oh i see"
+  },
+  {
+    "input": "ani post code ko thau ma zip code magxa",
+    "output": "oh oh"
+  },
+  {
+    "input": "no",
+    "output": "oh ok"
+  },
+  {
+    "input": "hamro case ma we will keep it simple bhai",
+    "output": "hmn huss then"
+  },
+  {
+    "input": "no rush",
+    "output": "hmnn huss"
+  },
+  {
+    "input": "la bhai suta aba gnite",
+    "output": "hmnn"
+  },
+  {
+    "input": "time bhayo sayed tya too late nai bhayo lol",
+    "output": "haha just about to"
+  },
+  {
+    "input": "medics ma ki yesma bhai??",
+    "output": "medics dada"
+  },
+  {
+    "input": "yes we can do that bhai",
+    "output": "yes, and the call i get validates this data"
+  },
+  {
+    "input": "hamro dashai tihar sakyo",
+    "output": "xaina da, ekdam waiting ma ho"
+  },
+  {
+    "input": "yeuta poster gatilo paye , i will start facebook promotion",
+    "output": "ahile nai da,"
+  },
+  {
+    "input": " le khabar garyo when is she coming bhanera ??",
+    "output": "i have made system ready for operations, etc"
+  },
+  {
+    "input": "keep it up bhai",
+    "output": "either frontline or arko thau we need to shift for growth dada"
+  },
+  {
+    "input": "yes bhai",
+    "output": "i am searching for alternatives too"
+  },
+  {
+    "input": "daddy le ultimatum dinu bhako xa re frontline lai, if they don't take a call,, we will move forward bhai",
+    "output": "nice, voli visiting buwa lai me"
+  },
+  {
+    "input": "la ta bhai gnite",
+    "output": "sure dada"
+  },
+  {
+    "input": "deyena,",
+    "output": "I see"
+  },
+  {
+    "input": "testai xa. chor haru ko lol",
+    "output": "Haha"
+  },
+  {
+    "input": "company nai register hunu parne ho kina bujhiyrna, yeuta company ko under kina na dine rahixa chor haru le",
+    "output": "Khai, maybe conflict hunxa vanera ho ki paxi"
+  },
+  {
+    "input": "arko woda ma register garne ni option hunxa re ni, instead of registering whole company",
+    "output": "Oh yo bujnu parxa"
+  },
+  {
+    "input": "what do you think",
+    "output": "Yes da. Lets do tei"
+  },
+  {
+    "input": "huss",
+    "output": "Main ta app store playstore ma app name basepaxi dhukka hunxa"
+  },
+  {
+    "input": "eh ok nice xaina which is good",
+    "output": "Yes"
+  },
+  {
+    "input": "i drive, pathao ko website ke xa",
+    "output": ".com/np xa"
+  },
+  {
+    "input": "ok",
+    "output": "Yes"
+  },
+  {
+    "input": "zsroori xaina rahixa taha bhayo",
+    "output": "Right right"
+  },
+  {
+    "input": "if needed later we can hai",
+    "output": "Yes da"
+  },
+  {
+    "input": "meeting sakyo, what's the outcome bhai",
+    "output": "yes da"
+  },
+  {
+    "input": "controller 3tc remains same rahixa hai",
+    "output": "ho ho, you are right"
+  },
+  {
+    "input": "ah web and app same features bhaye tyo ni parena",
+    "output": "true dada, Laravel is really user friendly"
+  },
+  {
+    "input": "tehi ta",
+    "output": "right"
+  },
+  {
+    "input": "chimeki.com is taken bhai. kati parxa no idea broker lagayera kinna khojda, they will generally hype price to get more commissions for themselves",
+    "output": "true"
+  },
+  {
+    "input": "chimeki.info",
+    "output": "yes tyo ni will work"
+  },
+  {
+    "input": "ok",
+    "output": ".app vanera ni pauxa?"
+  },
+  {
+    "input": "wait checking",
+    "output": "huss"
+  },
+  {
+    "input": "infor nai gare hai ta maile",
+    "output": "huss dada"
+  },
+  {
+    "input": "ahile lai [axi we can always add domains",
+    "output": "huss 💪"
+  },
+  {
+    "input": "kine tara populate huna time lagla sayed",
+    "output": "oh huss"
+  },
+  {
+    "input": "its working now populated",
+    "output": "nice, its visible"
+  },
+  {
+    "input": "deleted infistaff ko subdomain",
+    "output": "oh huss dada"
+  },
+  {
+    "input": "https://chimeki.info/",
+    "output": "nice huss"
+  },
+  {
+    "input": "bhai tyo mula timisina lai na lagai, company registration ko cost kati xa nepal ma. actual govt cost only.",
+    "output": "Have to check da"
+  },
+  {
+    "input": "together, so we can always work on mobile with existing web kai setups and controllers etc",
+    "output": "Huss"
+  },
+  {
+    "input": "nice",
+    "output": ":)"
+  },
+  {
+    "input": "boosting is never a good way of marketing.. we should try seo and smm 1st",
+    "output": "Huss dada"
+  },
+  {
+    "input": "that is how we ideally do long lasting promotion",
+    "output": "Oh huss"
+  },
+  {
+    "input": "yes bhai good, but what is infistaff no one knows proper seo garera we need to make them know.",
+    "output": "True true"
+  },
+  {
+    "input": "direct name search garera google ma rank garnu is not seo at all.",
+    "output": "True."
+  },
+  {
+    "input": "garda rank gare is good",
+    "output": "Oh huss"
+  },
+  {
+    "input": "or even better outsource in india too",
+    "output": "Hait yes."
+  },
+  {
+    "input": "did you manage to login though?",
+    "output": "Nai da, wont be needing for now"
+  },
+  {
+    "input": "did you check chimeki.info",
+    "output": "Yes da, tried posting and stuff"
+  },
+  {
+    "input": "there was no error maile check garda feri",
+    "output": "Community post ma its giving foreign key constraint error"
+  },
+  {
+    "input": "waste of time ahile lai",
+    "output": "Ui max 2 days ho da"
+  },
+  {
+    "input": "done and dusted",
+    "output": "Oh okok"
+  },
+  {
+    "input": "now footernav component is ready",
+    "output": "Ohh huss"
+  },
+  {
+    "input": "and is working on dashboard blade",
+    "output": "Functionality wise its looking good"
+  },
+  {
+    "input": "go to dashboard and make your screen narrow and wide you will see the difference",
+    "output": "Eta nepal bata namilne rahixa signup"
+  },
+  {
+    "input": "why",
+    "output": "Nextdoor ko"
+  },
+  {
+    "input": "eh ok ok got it",
+    "output": "No idea. Region locked i think"
+  },
+  {
+    "input": "but we and mobile are little different",
+    "output": "Ho ho"
+  },
+  {
+    "input": "let's do the web hai so we can focus on controller function properly",
+    "output": "Yes da, pausing mobile side for now"
+  },
+  {
+    "input": "then mobile ma paxi native installation paxi routing ko matra kaam hunxa, if not ganjagol hunxa feri",
+    "output": "Or sameer can keep working on mobile. Because he cant do web"
+  },
+  {
+    "input": "what do u mean pausing? you guys already started or installed ra?",
+    "output": "Yes, sameer single handedly"
+  },
+  {
+    "input": "paxi gayera feri web ko ui sanga na milla.",
+    "output": "True, web ko fix garepaxi can continue uta"
+  },
+  {
+    "input": "so ask him to check next door apk and it's layout context functions 3tc",
+    "output": "Huss"
+  },
+  {
+    "input": "don't do language like before hai",
+    "output": "Huss dada"
+  },
+  {
+    "input": "i 2ill install language today and do it differently",
+    "output": "Huss"
+  },
+  {
+    "input": "yesari garne hami",
+    "output": "Oh ok da"
+  },
+  {
+    "input": "paxi geolocation le fetch garauna sakinxa",
+    "output": "Right right"
+  },
+  {
+    "input": "then, blade itself ma work xa",
+    "output": "Huss dada aramle"
+  },
+  {
+    "input": "i am back bhai",
+    "output": "Huss da me too"
+  },
+  {
+    "input": "huss bhai, i am doing language now.",
+    "output": "Huss dada"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Yes da"
+  },
+  {
+    "input": "huss bhai",
+    "output": "hmn, its looking for user_id but from admin->id"
+  },
+  {
+    "input": "yes bhai user table ma ke issue xa fixing",
+    "output": "huss"
+  },
+  {
+    "input": "all from compass this time ]",
+    "output": "oh sweet,"
+  },
+  {
+    "input": "https://chimeki.info/admin/compass",
+    "output": "woah, nice"
+  },
+  {
+    "input": "interestingly dherai thau ma errors ako xa aja herda feri",
+    "output": "hmnn"
+  },
+  {
+    "input": "ok bhai,, any files changed from there so far??",
+    "output": "no da"
+  },
+  {
+    "input": "admin bata any settings changed ?? or applied??",
+    "output": "no da"
+  },
+  {
+    "input": "directly on a database ??",
+    "output": "null field vaako thau ma, , ,  added"
+  },
+  {
+    "input": "it si not working ta ahile feri",
+    "output": "oh hora"
+  },
+  {
+    "input": "check ta mero ma matra error ko ki??",
+    "output": "huss"
+  },
+  {
+    "input": "wait",
+    "output": "hus"
+  },
+  {
+    "input": "now do nothing",
+    "output": "hu"
+  },
+  {
+    "input": "since user table bread is not ready do not add any user hai ahile from database",
+    "output": "huss dada"
+  },
+  {
+    "input": "if you need adding users do it from front end only for now",
+    "output": "huss da"
+  },
+  {
+    "input": "huss bhai thank you",
+    "output": "huss"
+  },
+  {
+    "input": "after translation rename folder to ne",
+    "output": "huss da, got it"
+  },
+  {
+    "input": "chat gpt should take just seconds to do 1 page and there are 19 pages in total lol..",
+    "output": "true haha"
+  },
+  {
+    "input": "<?php",
+    "output": "huss"
+  },
+  {
+    "input": "sumedha lai i mean ,, feri tehi yeutai poster garna alxi garxa hai hahaha",
+    "output": "teita😂, u bata ta slow hunxa ahile"
+  },
+  {
+    "input": "oh yes he can do it actually,",
+    "output": "yes"
+  },
+  {
+    "input": "np ma ahile english file nai xa lol, after translations done, we will have proper nepali language out of the box",
+    "output": "ohh i see"
+  },
+  {
+    "input": "this is how we should have done other side too,, anyways learning curve",
+    "output": "yes da, mobile ma it was only option"
+  },
+  {
+    "input": "oh ok,, sayed old admin bhayera ni hola, yesma maile install gareko laravel is called voyager , harek theme ko afnai hune rahixa bhai",
+    "output": "oh oh"
+  },
+  {
+    "input": "front end ma sayed farak hola like you said",
+    "output": "hmn need to see tyo chahi"
+  },
+  {
+    "input": "but we will find out once again later la",
+    "output": "huss"
+  },
+  {
+    "input": "i have disabled composer fro now, as it is causing lots of issues",
+    "output": "oh hus"
+  },
+  {
+    "input": "ali danger nai rahixa composer lol",
+    "output": "haha, naam nei danger xa"
+  },
+  {
+    "input": "commands haru bhako bhayera",
+    "output": "right"
+  },
+  {
+    "input": "with just 2 clicks aago rahixa",
+    "output": "haha, sahi kura vayo yo, during troubleshoot"
+  },
+  {
+    "input": "yo do you know how can i fix",
+    "output": "going through it da"
+  },
+  {
+    "input": "huss bhai",
+    "output": "tara loop round & round xa"
+  },
+  {
+    "input": "agadi user create bhayera ho ki??",
+    "output": "could be dada"
+  },
+  {
+    "input": "existing user ko sabai data and references deleta garda issue aunna theyo ki??",
+    "output": "hmnn, agi maile Name halepaxi aako jasto lagyo"
+  },
+  {
+    "input": "but then admin user was a default user from the time of installation",
+    "output": "yes"
+  },
+  {
+    "input": "paxi maile user detaisl change matra gareko ho",
+    "output": "hmn"
+  },
+  {
+    "input": "bhai could it be related to storage symlink since user image is not found ..",
+    "output": "hmn, could be da. also database i couldn't find da"
+  },
+  {
+    "input": "symlink public_hrml ma hunu parne ho ,, backend admin folder bhitra banirako xa",
+    "output": "oh ok"
+  },
+  {
+    "input": "what do you mean you could not find database ?",
+    "output": "here,"
+  },
+  {
+    "input": "its not inside infistaff",
+    "output": "hhmn"
+  },
+  {
+    "input": "it is inside chimeki.info",
+    "output": "oh not inside siteground?"
+  },
+  {
+    "input": "you can do everything related to database here",
+    "output": "huss"
+  },
+  {
+    "input": "humm go to chimeki.info inside sitteground then you will se e",
+    "output": "huss"
+  },
+  {
+    "input": "check email or try switching now",
+    "output": "thank you dada, accepted"
+  },
+  {
+    "input": "export n backup database before changing",
+    "output": "huss"
+  },
+  {
+    "input": "so yeta ko ni issue",
+    "output": "yes"
+  },
+  {
+    "input": "laravel log run gareko chatgpt ma",
+    "output": "hmn, sabei seems in  order"
+  },
+  {
+    "input": "i will update this file schemamager from official site",
+    "output": "hmn huss, internal files mei dekhairako xa error"
+  },
+  {
+    "input": "rather then our own error",
+    "output": "yes da"
+  },
+  {
+    "input": "i will move forward by adding header and footernav to other blades",
+    "output": "huss dada"
+  },
+  {
+    "input": "speak later",
+    "output": "hussdada"
+  },
+  {
+    "input": "few things milaunu xa like image not showing , storage issue as usual and links properly linking it to them",
+    "output": "Right probably needs image linking"
+  },
+  {
+    "input": "yes bhai , but i can see slowing i am getting there",
+    "output": "Yes da💪"
+  },
+  {
+    "input": "aja korea bata friend ako xa so won't be around, but if you need anything buzz me",
+    "output": "Huss dada"
+  },
+  {
+    "input": "also can you tell me which email i have used for upwork client ,, so i can cancel monthly subscription",
+    "output": "No da, code canyon ma xa already"
+  },
+  {
+    "input": "eh ok bhai",
+    "output": "Hmn infistaffgroup@gmail.com i believe"
+  },
+  {
+    "input": "humm",
+    "output": "Yes da"
+  },
+  {
+    "input": "what did she say ??",
+    "output": "Shes ok. Pokhara pugera specification pathaunu hunxa"
+  },
+  {
+    "input": "did sameer translate those pack?",
+    "output": "Yes da, i have zip"
+  },
+  {
+    "input": "huss bhai thank you",
+    "output": "Hud"
+  },
+  {
+    "input": "here i think",
+    "output": "Oh huss ma home pugera send"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Hmnn huss"
+  },
+  {
+    "input": "sadly i do not have access to company ko upwork account since we created from yoru personal account i think but double check on yoru return",
+    "output": "Oh huss, just reached home"
+  },
+  {
+    "input": "no rush bhai ,, take your time",
+    "output": "Huss"
+  },
+  {
+    "input": "just adding screeshots to gifma",
+    "output": "Oh huss da"
+  },
+  {
+    "input": "cancelled membership now??",
+    "output": "wait da, payment chahi removed"
+  },
+  {
+    "input": "huss bhai",
+    "output": "lol cancle button not working"
+  },
+  {
+    "input": "good bhai",
+    "output": ":)"
+  },
+  {
+    "input": "if you keep switching your focus from one thing to another frequency, you will achieve nothing unfortunately, everything that is done needs dedication and a lot of dedication",
+    "output": "oh right"
+  },
+  {
+    "input": "but one we are there then slowly everything will start being in place and more work flows in",
+    "output": "huss dada, needed to hear that 💪"
+  },
+  {
+    "input": "huss bhai, i am done working for today. now database table has been extended massively and is ready.",
+    "output": "oh nice huss"
+  },
+  {
+    "input": "aba all i ha e to do is connect it to controllers and route them via blades,",
+    "output": "nice huss"
+  },
+  {
+    "input": "la bhai gnite hai ta u too sleep",
+    "output": "huss, Goodznight dada"
+  },
+  {
+    "input": "kun place ho",
+    "output": "No da enough space for that too"
+  },
+  {
+    "input": "humm kun place rahixa,  chowk ma hi katyani",
+    "output": "Yes, katyani aunu agadi euta turning xa ni da. C shaped turning mei ho"
+  },
+  {
+    "input": "malai location map ma pathau bhai, i just woke up, i will get back to you hai",
+    "output": "Huss"
+  },
+  {
+    "input": "eh nice bhai, will check later hai ahile kids ko school time xa brb",
+    "output": "Huss dada"
+  },
+  {
+    "input": "let's call when you are back paxi",
+    "output": "Huss dada"
+  },
+  {
+    "input": "huss bhai, bharkhar daddy sanga ni lira bhayo. let's connect when you are back",
+    "output": "Huss"
+  },
+  {
+    "input": "ok bhai wait 20 minutes brb",
+    "output": "Huss aramle da"
+  },
+  {
+    "input": "‎video call, ‎ended",
+    "output": "dada, Manab Sewa Ashram, euta good place ayo for marketing"
+  },
+  {
+    "input": "what is manab sewa ashram bhai??",
+    "output": "they provide facilities and care to human recused, basically human in very bad condition"
+  },
+  {
+    "input": "we can certainly hire staff and do it from within our office bhai",
+    "output": "yes da, within office, i have planned for a mini studio"
+  },
+  {
+    "input": "videos??",
+    "output": "yes da"
+  },
+  {
+    "input": "ke videos bhai",
+    "output": "for social media"
+  },
+  {
+    "input": "social media marketing garne ho??",
+    "output": "yes da"
+  },
+  {
+    "input": "ok,, so can they do our afnai ni marketing too ?? or we are focusing on promoting others only with these setup??",
+    "output": "no, only for us"
+  },
+  {
+    "input": "eh ok ok",
+    "output": "only 1 side,  like you said"
+  },
+  {
+    "input": "huss bhai do it then",
+    "output": "huss"
+  },
+  {
+    "input": "ki ke ho",
+    "output": "Yes da"
+  },
+  {
+    "input": "eh ok nice.",
+    "output": "Hamro pahilako nei ho"
+  },
+  {
+    "input": "huh ko",
+    "output": "Yes da. Apparently other companies yesto gardo rahixa"
+  },
+  {
+    "input": "is he gonna be on a video ko, how is it done",
+    "output": "She"
+  },
+  {
+    "input": "‎video call, ‎9 min",
+    "output": "Dada u here"
+  },
+  {
+    "input": "bhai if sameer si working hard on the chimeki,, shall we give him a very small share on chimeki side,, like about 2 to 5%",
+    "output": "Yes da, I thought of giving 5k bonus"
+  },
+  {
+    "input": "5k will be one off , % share will be life long . mou garera we also nee dto make sure he will not get involved in similar projects elsewhere or even on his own tyo % dinda",
+    "output": "Huss dada, 5% lets give then"
+  },
+  {
+    "input": "ok ,, kura gardai garnu ni t a, we will do mou,",
+    "output": "Huss da."
+  },
+  {
+    "input": "people would like to know who their chimeki are anyways",
+    "output": "Yes da ekdam, i can see a very great market in ktm specially"
+  },
+  {
+    "input": "can create local community group etc",
+    "output": "Trueee"
+  },
+  {
+    "input": "i can see more outside nepal lol, especially there are several samajh everywhere outside nepal",
+    "output": "Haha u are right"
+  },
+  {
+    "input": "don't worry bhai i am here for this side",
+    "output": "Huss dada 💪. I will then be working on making MEDICS"
+  },
+  {
+    "input": "yes nepal ma ta useful xa nai jasto lagxa nepali afnai social media but very local",
+    "output": "YES"
+  },
+  {
+    "input": "yes bhai look at medics operstiosn etc",
+    "output": "Huss dada."
+  },
+  {
+    "input": "app will come later after we get clients one by one we add them to medics to record services etc",
+    "output": "Yes exactly, caregivers will record their patients data"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Huss"
+  },
+  {
+    "input": "we need a good professional signboard hai with no too much lengthy information",
+    "output": "Yes yes, i have designed lemme show it"
+  },
+  {
+    "input": "wher epossible",
+    "output": "Ohh, solar spot light?"
+  },
+  {
+    "input": "ah milxa bhane natra its okay",
+    "output": "Ahhh i get you"
+  },
+  {
+    "input": "oh hus sbhai..",
+    "output": "vete vete"
+  },
+  {
+    "input": "send",
+    "output": "contact information ra qr code"
+  },
+  {
+    "input": "logo should never be misse din any branding bhai",
+    "output": "oh huss"
+  },
+  {
+    "input": "sure bhai",
+    "output": "thank you dada"
+  },
+  {
+    "input": "invoice garda do that too, i will include that hai ta",
+    "output": "huss :)"
+  },
+  {
+    "input": "ye sbhai ,, expected,, theek xa ni not abig deal bhai",
+    "output": "huss dada"
+  },
+  {
+    "input": "huss bhai",
+    "output": "ma bistarei daily euta euta garera halxu"
+  },
+  {
+    "input": "tara i wont , afnai business staha hunxa kunai time ma doddgy dekhinxa, but will ask others",
+    "output": "oh huss"
+  },
+  {
+    "input": "it is important to update each other everyday via whatsapp or a call",
+    "output": "that will be helpful da"
+  },
+  {
+    "input": "yes bhai speed up ni hunxa",
+    "output": "true, euta call session rakhum belka tira"
+  },
+  {
+    "input": "huss bhai",
+    "output": "yes dada"
+  },
+  {
+    "input": "i am uploading files on teh web now",
+    "output": "huss"
+  },
+  {
+    "input": "now you can freshly download all files for either your local host",
+    "output": "noicee"
+  },
+  {
+    "input": "can you check after login",
+    "output": "huss checking..."
+  },
+  {
+    "input": "so far , i have done several blades and setting blades haru all done, functions attach garna baki xa, database done, halka yeta uti as we move along needs modifications",
+    "output": "oh oh"
+  },
+  {
+    "input": "it is all responsive,, ask him to backup always always and always before making change to any file,, never show laziness on this aspect of backup",
+    "output": "huss dada, tara he wont be Laravel"
+  },
+  {
+    "input": "he is good at laravel , why not",
+    "output": "hmn, Laravel he hasn't tried yet"
+  },
+  {
+    "input": "this side haru took a long time hai mostly settings etc",
+    "output": "true, error po falxa lol"
+  },
+  {
+    "input": "natra errro falxa",
+    "output": "huss"
+  },
+  {
+    "input": "kunai kunai thau ma error ako xa yeta webserver ma move garepaxi",
+    "output": "hait already looking so clean"
+  },
+  {
+    "input": "strange , kina error ayo,, agi database dump ma ni issue ako theyo tesle ho ki sayed",
+    "output": "ohh"
+  },
+  {
+    "input": "but easy fix xa, kata table specify gareko na bheteko xa, define garepaxi point gari halxa",
+    "output": "hmnn"
+  },
+  {
+    "input": "done updated table,, it should work fine now",
+    "output": "yes, work ta vairahxa"
+  },
+  {
+    "input": "aba functions haru ani group blades controller haru banauna baki xa.. aja lai i am done",
+    "output": "huss dada"
+  },
+  {
+    "input": "yes bhai here",
+    "output": "does this sound good?"
+  },
+  {
+    "input": "yes very good, bhai",
+    "output": "thank you dada"
+  },
+  {
+    "input": " le reply garyo??",
+    "output": "😂huss dada"
+  },
+  {
+    "input": "check aliexpress, can deliver sidhai kathmandu ma hai",
+    "output": "AliExpress ko no idea"
+  },
+  {
+    "input": "sasto parxa",
+    "output": "oh nice,"
+  },
+  {
+    "input": "ah ma message drop garxu",
+    "output": "Huss dada"
+  },
+  {
+    "input": "send pictures pani",
+    "output": "root vannale da"
+  },
+  {
+    "input": "lol",
+    "output": "Ae yes yes haha"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Caregiver cloth"
+  },
+  {
+    "input": "nice,, thamel ma they do logos,, we can sort logo too bhai ,, ahile tara hatar bhayena",
+    "output": "Logo yei banaidinxa embroid at 100 rupeess per logo"
+  },
+  {
+    "input": "eh even better hait",
+    "output": "haha yes, cost 2k rahixa per unit"
+  },
+  {
+    "input": "lets do this bhai,,",
+    "output": "Huss dada 💪"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Exactly"
+  },
+  {
+    "input": "ctevte ko approve garne bhanera",
+    "output": "Hait teti vayepaxi, afei marketed hunxa"
+  },
+  {
+    "input": "anyways lets wait for her reply",
+    "output": "Yes yes. Buwa knows insider guy"
+  },
+  {
+    "input": "yes tyo cteve lai , yeta i know exactly how to get uk qual , so we have a very high ground",
+    "output": "Yesss💪💪‼️🔥"
+  },
+  {
+    "input": "huss bhai ,",
+    "output": "Huss da, brb going tailors"
+  },
+  {
+    "input": "ma aba ekxin ma chimiki ma lage,, sameer and i have to dive different areas,",
+    "output": "Huss sure da."
+  },
+  {
+    "input": "community common bhayera i left it outside",
+    "output": "Oh okok"
+  },
+  {
+    "input": "rest will be inside their own respective folder e.g chat, groups, sales, public services etc",
+    "output": "Voli bata end call session da"
+  },
+  {
+    "input": "very modular",
+    "output": "Yess"
+  },
+  {
+    "input": "because we would have already developed controllers for web",
+    "output": "Yes"
+  },
+  {
+    "input": "anyways speak later hai ta",
+    "output": "Huss dada"
+  },
+  {
+    "input": "agi daddy sanga kura bhayo",
+    "output": "Haha huss da"
+  },
+  {
+    "input": "so wait",
+    "output": "Nai da i havent used"
+  },
+  {
+    "input": "phew huss bhai",
+    "output": "Dada at home"
+  },
+  {
+    "input": "huss bhai",
+    "output": "eta ke vayexa da"
+  },
+  {
+    "input": "call bhai",
+    "output": "huss"
+  },
+  {
+    "input": "several modules not linked to menu , so must add url manually hai ,",
+    "output": "Nice huss dada"
+  },
+  {
+    "input": "let me know hai which module sameer will be working on",
+    "output": "huss dada"
+  },
+  {
+    "input": "ko manxe ho operation herne.",
+    "output": "Sujal bhai vanne ho"
+  },
+  {
+    "input": "eh ok, ke field ko ho,",
+    "output": "Caregiver"
+  },
+  {
+    "input": "nice then he is the perfect guy",
+    "output": "Yes da ekdam"
+  },
+  {
+    "input": "salary ke kati magxa.",
+    "output": "First month 10, 2nd month 15"
+  },
+  {
+    "input": "also what is his job role.",
+    "output": "Data logging, caregiver management"
+  },
+  {
+    "input": "facebook social media post haru ni garxa answer ni garxa ki",
+    "output": "Yes da"
+  },
+  {
+    "input": "lovely perfect teso bhaye",
+    "output": "Yes"
+  },
+  {
+    "input": "i can start facebook promotion too paid wala ni on top teso bhaye",
+    "output": "Yes da, tesko laagi i am waiting for audio from samprada"
+  },
+  {
+    "input": "video bhanda ni graphics janxe bhai paid promotions ma. video ni janxa jana ta ali mahango parxa",
+    "output": "Ohh horaa"
+  },
+  {
+    "input": "me too",
+    "output": "Huss"
+  },
+  {
+    "input": "bhai back hai ma",
+    "output": "huss da, me too"
+  },
+  {
+    "input": "also do yli need to do anything besides invoice payment etc",
+    "output": "ae ah, aja he didn't work on module dada,"
+  },
+  {
+    "input": "eh ok or he can download and work on 1 module on local host too. i am doing the same. ani after i work finish the module i update the files on the server. but if he needs access i can give hai",
+    "output": "ae huss"
+  },
+  {
+    "input": "ke better bhai",
+    "output": "yo da"
+  },
+  {
+    "input": "files modification le ta farak parfaina",
+    "output": "truee"
+  },
+  {
+    "input": "daily ni no need ko after completion dhyanga yeuta module add upload garda ni bhayo",
+    "output": "ae ho ho"
+  },
+  {
+    "input": "teso bhaye ma main feature yo community kai herdai garxu hai ta",
+    "output": "huss"
+  },
+  {
+    "input": "tes bhitra groups ni xa, main feature of the application plus most jhampat side",
+    "output": "haha right, easier Sameer will do"
+  },
+  {
+    "input": "huss bhai",
+    "output": "hus"
+  },
+  {
+    "input": "ask him to do chat module that is next important plus",
+    "output": "oh hus"
+  },
+  {
+    "input": "because it has chat module",
+    "output": "right right"
+  },
+  {
+    "input": "or at least how bhanne taha hunxa",
+    "output": "true"
+  },
+  {
+    "input": "post it after fixing , i will then boost",
+    "output": "husss"
+  },
+  {
+    "input": "huss",
+    "output": "done, posted da"
+  },
+  {
+    "input": "hus sbhai thank you",
+    "output": "huss :)"
+  },
+  {
+    "input": "can you chek with them the process of registering company with 1 foreigner and yourself. what's the minimum investment 3tc",
+    "output": "Huss dada"
+  },
+  {
+    "input": "website seo is the main",
+    "output": "Oh lemme check"
+  },
+  {
+    "input": "social media pa i sayed check their followers etc you will know bhai",
+    "output": "Yes social media katei xaina"
+  },
+  {
+    "input": "may be we don't have a single key phrases that is similar to doctors on call website",
+    "output": "Hmnn"
+  },
+  {
+    "input": "mula",
+    "output": "Oh wait wait, eta office ko pc bata gareko"
+  },
+  {
+    "input": "eh ok ok",
+    "output": "Huss"
+  },
+  {
+    "input": "ali close xaina so i missed it.",
+    "output": "Ohh"
+  },
+  {
+    "input": "hi  ,",
+    "output": "Thank you dada"
+  },
+  {
+    "input": "bhai sameer started with chat module??",
+    "output": "No da. Suruma hes working on event ko css"
+  },
+  {
+    "input": "but remember all events etc are posted from postcard blade",
+    "output": "Huss"
+  },
+  {
+    "input": "so postcard component blade is common blade for all the areas",
+    "output": "Oh got it"
+  },
+  {
+    "input": "ahile when you click on the footernav post button, postcard component pops open",
+    "output": "Right, on mobile view"
+  },
+  {
+    "input": "yes ahile lai mobile",
+    "output": "Huss"
+  },
+  {
+    "input": "it's straight forward",
+    "output": "Huss will convey this to him"
+  },
+  {
+    "input": "always backup that's the key",
+    "output": "Huss locally hes doing"
+  },
+  {
+    "input": "and save on my local server too",
+    "output": "Nice huss"
+  },
+  {
+    "input": "paxi shutter kholera glass hale paxi halka work bench setup different garnu parla",
+    "output": "Yes dada. Ekdam"
+  },
+  {
+    "input": "natra halka mulauda ni hunxa, ali bahira dekhi nai wow dekhine gari",
+    "output": "Yes aluminum glass setup 25k. And toughened glass setup 50k, Upvc glass setup 45k"
+  },
+  {
+    "input": "huss bhai i am outside, will come and discuss hai ta",
+    "output": "Huss dada"
+  },
+  {
+    "input": "however to get the ball rolling i will still throw just small amount of ads",
+    "output": "Yes da, definitely"
+  },
+  {
+    "input": "yes bhai, website is the main, we will sort website based application too paxi. ahile lai needs some good keywords",
+    "output": "True dada and few blogs will do the trick"
+  },
+  {
+    "input": "blogs ta ho but main website pages also needs good seo keywords etc",
+    "output": "Huss"
+  },
+  {
+    "input": "they are our keywords",
+    "output": "Oh huss"
+  },
+  {
+    "input": "ads hale hai bhai facebook ma,, aba review ma xa",
+    "output": "oh huss dada"
+  },
+  {
+    "input": "for you this should help you get start with meta tags and on page seo",
+    "output": "nice thank you dada"
+  },
+  {
+    "input": "off page seo is also a thing hai which will come later once on page seo is up to the mark",
+    "output": "ohh huss"
+  },
+  {
+    "input": "wait bhai",
+    "output": "yes da"
+  },
+  {
+    "input": "here",
+    "output": "first yo dada?"
+  },
+  {
+    "input": "yes this only fro seo nothing else, follow their ato z instructions and we are all set",
+    "output": "niceee, on it"
+  },
+  {
+    "input": "bhai yo laravel ma i may need yoru help when implementing localisation ,, just like in medics application",
+    "output": "sure da"
+  },
+  {
+    "input": "natra jata ko user can communicate with jata ko manxe,, that needs to change base don their own local radius",
+    "output": "hmn right"
+  },
+  {
+    "input": "ki ke ho",
+    "output": "yes da, start ma it's counterproductive to add radius"
+  },
+  {
+    "input": "kun locality bhanera predefined locality ma user join hunxa, thunk it like when user joins a local group during signup , this local group is just the location group e.g vimsengola, sinamangal etc",
+    "output": "hmnn, what if he keeps moving"
+  },
+  {
+    "input": "aba problem, pre defined area kasari taha paune ke kata bata halne ki,, google map based location jhikne mile best",
+    "output": "ohh ahh"
+  },
+  {
+    "input": "humm ,, not really bhai , hamro ma unless they change their address they cannot post into different location",
+    "output": "oh huss"
+  },
+  {
+    "input": "unless i go to settings and change my address",
+    "output": "oh got it"
+  },
+  {
+    "input": "my location",
+    "output": "ohh nice"
+  },
+  {
+    "input": "name ma display bhako name anusar le location",
+    "output": "yes da, i believe its possible"
+  },
+  {
+    "input": "hus sbhai iwill continue with ths application teso bhaye",
+    "output": "nice ui"
+  },
+  {
+    "input": "link i sent yesterday??",
+    "output": "xaina dada, voli morning will definitely"
+  },
+  {
+    "input": "hatar ta xaina,, bujhi rakhu,, paxi ximeki lai domain lina matra bhaye ni company chaine ki bhanera matra ho",
+    "output": "huss dada, teini will ask voli"
+  },
+  {
+    "input": "yes bhai,, thank you",
+    "output": ":)"
+  },
+  {
+    "input": "ye sbhai",
+    "output": "nice"
+  },
+  {
+    "input": "there is a tool called keywords planner on googel before not sure if they still have it, it helps figure out",
+    "output": "oh found arko, keywordtoo.io"
+  },
+  {
+    "input": "tyo ta doctors lai ho, nurses lai ke xa. can't be doctors for nurse or caregiver",
+    "output": "hmn"
+  },
+  {
+    "input": "use this instead",
+    "output": "trying aru options"
+  },
+  {
+    "input": "wrong keyword is wrong target",
+    "output": "oh huss dada"
+  },
+  {
+    "input": "yesm ahunxa keywords planner",
+    "output": "huss on it"
+  },
+  {
+    "input": "ok i have got a software called market samurai,, i nee dto find licence key for it , once found i will send it to you hai",
+    "output": "ohho, huss"
+  },
+  {
+    "input": "paid  ho",
+    "output": "Nicee, found it"
+  },
+  {
+    "input": "yes just saw that",
+    "output": "teita,"
+  },
+  {
+    "input": "find other way bhai do some googel search and see related keywords in the search itself",
+    "output": "huss dada"
+  },
+  {
+    "input": "they ahev a done a very good seo",
+    "output": "very True"
+  },
+  {
+    "input": "that si the key to success , you will get free clients withoup paying much",
+    "output": "Niceee, focusing on it tesovaye"
+  },
+  {
+    "input": "aba we need someone to write articles in nepali as well as english translated version on a regular basis, ensure to post those articles with proper keywords and links",
+    "output": "hmnn"
+  },
+  {
+    "input": "paula ki koi,,",
+    "output": "pauxa dada, few were begging me to give them internships"
+  },
+  {
+    "input": "lovely bhai halyo ni ta",
+    "output": "yes da"
+  },
+  {
+    "input": "brb , sani chori lina gaye ma",
+    "output": "nice, huss then, hiring them voli batei"
+  },
+  {
+    "input": "nee dto fix the postcard component for general post side ayera",
+    "output": "sure sure"
+  },
+  {
+    "input": "also  ko reply lai i will give her coupe more days if no response we will take out our own ctevte approval andmove forward",
+    "output": "Huss dada 💪🔥"
+  },
+  {
+    "input": "hus sbhai 7brb",
+    "output": "Huss, i will be here"
+  },
+  {
+    "input": "i could nou upload my work on server asti ko new laptop ko screen dies so cannot see a thing. i need to get usb c to hdmi adapter then connect to my monitor then o nly will be able to transfer files",
+    "output": "Nice"
+  },
+  {
+    "input": "any calls though so far?",
+    "output": "Yes da, morning ma checked"
+  },
+  {
+    "input": "call button na thiche samma na janu parne haina paisa, ke ho ke facebook ads ni",
+    "output": "Ohh"
+  },
+  {
+    "input": "tehi ta",
+    "output": "Tara call chahi xaina"
+  },
+  {
+    "input": "app ma cost gayena so we can i think",
+    "output": "No da, they were old age homes"
+  },
+  {
+    "input": "ask him to research on market price etc",
+    "output": "Ani they afei charge above 120 re"
+  },
+  {
+    "input": "oh fataha haru",
+    "output": "Yes. He said 100-130 they charge"
+  },
+  {
+    "input": "ok our price is not bad then",
+    "output": "Yes da ekdam thik xa"
+  },
+  {
+    "input": "bit long term like above 4 weeks ours is cheaper which must be",
+    "output": "Truee"
+  },
+  {
+    "input": "agadi ko pricing seems good teso bhaye hamro package ma define gareko list",
+    "output": "Yes ahileko thikka xa"
+  },
+  {
+    "input": "good",
+    "output": "Voli i have meeting with euta old age home"
+  },
+  {
+    "input": "good bhai",
+    "output": "She seems interested."
+  },
+  {
+    "input": "old age home may take our nurses long term or use our application backed hai.",
+    "output": "Yes da. Yo and also their patient needs home care which they cannot give"
+  },
+  {
+    "input": "let's do it bhai",
+    "output": "Huss dada 💪"
+  },
+  {
+    "input": "he doesn't have to go. young style ma we could do better in many 2ays i think",
+    "output": "Yes he’s a bit down in business negotiations"
+  },
+  {
+    "input": "spoken to ",
+    "output": "Haha true"
+  },
+  {
+    "input": "agi 2anted to update you and daddy but could not",
+    "output": "Oh no worries"
+  },
+  {
+    "input": "they are not looking to invest but just 2ants small share on our investment and their ctevte approval plus students referrals",
+    "output": "Hmn hmn"
+  },
+  {
+    "input": "so i am not sure 3xactly how much to give them or we take our own approval etc",
+    "output": "Ok their tactics is very good"
+  },
+  {
+    "input": "speak later",
+    "output": "Huss dada"
+  },
+  {
+    "input": "at least files transfer garna mile i am happy for nown",
+    "output": "nice nice, teita"
+  },
+  {
+    "input": "‎video call, ‎ended",
+    "output": "https://reincubate.com/checkout/?utm_source=camo_msix&utm_campaign=2.1.32.13574_windows&utm_medium=purchase_cta&edition=Free&app=camo"
+  },
+  {
+    "input": "what is it bhai",
+    "output": "its a software that lets windows device capture camera of iphone"
+  },
+  {
+    "input": "teti subscribe garne price ma ta ramrai camera aula ni 1080 or even 4k or 2 k wala",
+    "output": "2k here costs 5k"
+  },
+  {
+    "input": "4k ni",
+    "output": "mathiko da, monthly wala"
+  },
+  {
+    "input": "ok 8 gbp wala",
+    "output": "yes da"
+  },
+  {
+    "input": "ok yo setup ke lai chayeko has video shoot garna lai.?",
+    "output": "yes da"
+  },
+  {
+    "input": "obs ma connect kina garnu pareko bhai",
+    "output": "to connect mic dada"
+  },
+  {
+    "input": "no wait i am trying to understand",
+    "output": "microphone is usb"
+  },
+  {
+    "input": "ke mic xa ra do we already have a mic",
+    "output": "i ordered Chinese sasto good review wala mic, quality came trash"
+  },
+  {
+    "input": "so i can get back to fixing my laptop and get some work done today",
+    "output": "huss dada, you can get back, ma vetina vane will feri contact you"
+  },
+  {
+    "input": "huss bhai, i suggest get a camera, ma snaga ta theyo yaha, camera mic etc tara ke garnu",
+    "output": "no worries dada, ahile will utilize this phone 4k 60 ma easy recording janxa"
+  },
+  {
+    "input": "if we have to buy camera we have to hai tab",
+    "output": "sure sure, huss"
+  },
+  {
+    "input": "phew laptop is working, screen is doomed",
+    "output": "woahh"
+  },
+  {
+    "input": "maile aba khadoos tarika le laptop sidhai pc monitor ma connect garera working",
+    "output": "thank you da"
+  },
+  {
+    "input": "no option ahile lai until i setup server and move all file sto desktop,, but feri yesto work lai i prefer laptop",
+    "output": "teita, couch ma basera garna milthyo"
+  },
+  {
+    "input": "he will work on front end",
+    "output": "ae yes dada"
+  },
+  {
+    "input": "he dosent sound goo don backend",
+    "output": "yes dada, i am planning to teach him, tara meanwhile i got busy with the managements stuffs"
+  },
+  {
+    "input": "also afnai man le afnai dimag lagayera change garna khojdai theyo signup and css haru unnecessary halna start garea, i stoppe dhim",
+    "output": "ohh huss"
+  },
+  {
+    "input": "and told him he should blindly follow figma ko screenshots only",
+    "output": "true, huss"
+  },
+  {
+    "input": "at least once we have a clone then we can choose an dpick",
+    "output": "true true, tespaxi can modify"
+  },
+  {
+    "input": "nepal ma praye ko soch css focus garera simple design lai complex banaunu hundo rahi lol",
+    "output": "hahaha😂😂"
+  },
+  {
+    "input": "yeto change garexa",
+    "output": "oh ok, esto ta dekhaudei thiyo malai"
+  },
+  {
+    "input": "yo chodera",
+    "output": "yo much cleaner"
+  },
+  {
+    "input": "la bhai ma aba dinner khanxu",
+    "output": "oh okok,"
+  },
+  {
+    "input": "files updated online hijo samm ako work, database also updated",
+    "output": "nice huss"
+  },
+  {
+    "input": "ma  lai bholo khabar gardinxu,, we can certainly get ctevte",
+    "output": "yes da, we will definitely"
+  },
+  {
+    "input": "especially daddy said he knows someone too, alilai paisa khalan but we can,, so i will make her clear from now itself hai",
+    "output": "huss dada, let's initiate this"
+  },
+  {
+    "input": "huss",
+    "output": "i/m sure she will give an counteroffer"
+  },
+  {
+    "input": "i really do not want her counter offer now, because i think we can do it ourselves especially they are not willing to invest anything",
+    "output": "yes da 💪🔥"
+  },
+  {
+    "input": "0 investment ma ni huna ta ,, name uniharu ko ,, paisa hamro ,, pai chatta chodera sabai business liyera janxan ,, high chance xa",
+    "output": "yes exactly,"
+  },
+  {
+    "input": "‎video call, ‎9 min",
+    "output": "Also transportation service 1,70,000 parne rahixa 1 month"
+  },
+  {
+    "input": "ke patient transportation service?",
+    "output": "Nai da caregiver ko"
+  },
+  {
+    "input": "oh, too much hai.",
+    "output": "Teii"
+  },
+  {
+    "input": "bhada ma ni monthly tetro toit",
+    "output": "Yes teii"
+  },
+  {
+    "input": "bhai asleep?",
+    "output": "yes da"
+  },
+  {
+    "input": "need yiur help bhai",
+    "output": "yes da"
+  },
+  {
+    "input": "all done but is not sending data to database",
+    "output": "hmn,"
+  },
+  {
+    "input": "shall i upload first, kasari 3asy hunxa",
+    "output": "you can provide me main code file da"
+  },
+  {
+    "input": "1. blade, 2. model 3 controller and 4th routes",
+    "output": "right"
+  },
+  {
+    "input": "ke code pathau ahile",
+    "output": "controller"
+  },
+  {
+    "input": "sabai files",
+    "output": "huss tyo garda ni hunxa, full code bujna time lagxa so"
+  },
+  {
+    "input": "<!-- form type - create an event -->",
+    "output": "hmm huss"
+  },
+  {
+    "input": "yo form ho hai bhai ahile data send garna khojeko , 2 steps form xa",
+    "output": "oh hus"
+  },
+  {
+    "input": "create event garda failed bhanera message pop hunxa , laravel log is nil nothing there",
+    "output": "hmnn"
+  },
+  {
+    "input": "yes store function is for creating events",
+    "output": "huss"
+  },
+  {
+    "input": "blade lai routes / web",
+    "output": "ohh hus"
+  },
+  {
+    "input": "ensure backup",
+    "output": "huss da, ahile wont be touching file"
+  },
+  {
+    "input": "thi sis the log now, modified controller to fetch a log",
+    "output": "ohh"
+  },
+  {
+    "input": "user id 1 pathaune?",
+    "output": "nai da, neighbourhood kei id"
+  },
+  {
+    "input": "user id haina , bhai,, neighborhood id",
+    "output": "yes user id 1 da"
+  },
+  {
+    "input": "ok let em try hai typ",
+    "output": "huss"
+  },
+  {
+    "input": "your postcard may also have this already",
+    "output": "ohh"
+  },
+  {
+    "input": "59 line",
+    "output": "yes found it"
+  },
+  {
+    "input": "wait la",
+    "output": "huss"
+  },
+  {
+    "input": "humm neighborhood post ma proper model set rahixa, neighborhood ma model proper defined xaian rahixa",
+    "output": "i see"
+  },
+  {
+    "input": "proper defined nai rahina xa,",
+    "output": "haha teita,"
+  },
+  {
+    "input": "neighborhood post am defined a, ki ta yeta divert gareko bhani hunthyo,, aba creating proper model hai ta",
+    "output": "huss dada"
+  },
+  {
+    "input": "which is equivalent to neighbourhood location",
+    "output": "yes"
+  },
+  {
+    "input": "ok let em try",
+    "output": "hus"
+  },
+  {
+    "input": "bhai tara neighborhood id will be the id field of the neighborhood table haina ??",
+    "output": "yes dada"
+  },
+  {
+    "input": "user ko neighborhood set garne strategy chayo i meant",
+    "output": "you are right dada, euta dropdown of neighbourhood should do the trick"
+  },
+  {
+    "input": "yes ahile lai",
+    "output": "yes or this too"
+  },
+  {
+    "input": "paxi ta we cannot allow people to post into random neighbourhoods",
+    "output": "user ko table ma can add \"current_neighborhood_id\""
+  },
+  {
+    "input": "user table is default laravel table which i am not changing",
+    "output": "oh yes user_accounts, esma rahixa user settings"
+  },
+  {
+    "input": "yes or user settings ni theek huna",
+    "output": "nice approach"
+  },
+  {
+    "input": "thanks bhai",
+    "output": "huss"
+  },
+  {
+    "input": "dimag hijo dekhi ghuneko theyo",
+    "output": "haha"
+  },
+  {
+    "input": "bimag le ke kaam garthyo ta",
+    "output": "teita, main laptop"
+  },
+  {
+    "input": "will try this and rest",
+    "output": "Huss dada"
+  },
+  {
+    "input": "hus sbhai sepek to you tomorrow,,",
+    "output": "Huss, Goodzzznight dada"
+  },
+  {
+    "input": "hello,",
+    "output": "Oh huss"
+  },
+  {
+    "input": "a successful post will be paid, they must provide link to the post weekly for payment release",
+    "output": "Eta esari mandeinan dada"
+  },
+  {
+    "input": "kina bhai??",
+    "output": "Either they want to work as part time or full time. Per post anusar nobody wants to work"
+  },
+  {
+    "input": "feri yehi arko form ma it si working",
+    "output": "Hmn neighborhoods variable defined ho mathi tira?"
+  },
+  {
+    "input": "i mean dashboard itself ko",
+    "output": "Nai da. Yes blade ma"
+  },
+  {
+    "input": "routes bata controller model ma point bhaye tanne ho",
+    "output": "Hmn"
+  },
+  {
+    "input": "katai spelling plural singular le issue airako xa ki jasto lagyo malai",
+    "output": "Yes or could be neighbors and neighbour"
+  },
+  {
+    "input": "yesma american english nai use a sabai tira",
+    "output": "Oh ok"
+  },
+  {
+    "input": "don't worry bhai ma herxu",
+    "output": "Huss, ekxin baba coming ktm"
+  },
+  {
+    "input": "ke xa ra testo unusual",
+    "output": "hmnn, testo ta naaune parne"
+  },
+  {
+    "input": "bhai all good. how are things moving forward?",
+    "output": "Going good dada. Aja was graduation ceremony"
+  },
+  {
+    "input": "huss",
+    "output": "Thanks dada"
+  },
+  {
+    "input": "call xa ahile samma any",
+    "output": "Call airahxa dada, tara without users clicking"
+  },
+  {
+    "input": "user le ads ma katai click garne bittaikai call auxa jasto lagxa",
+    "output": "Yes right"
+  },
+  {
+    "input": "that is main idea of this ads style",
+    "output": "Yes"
+  },
+  {
+    "input": "it's like call button function",
+    "output": "Right da,"
+  },
+  {
+    "input": "aba right manxe le call garxa ki gardaina bhanne matra ho",
+    "output": "I am guessing some glitch with facebook"
+  },
+  {
+    "input": "call ko satta messenger ma message gardeu ta?",
+    "output": "Call nei thik ho hunata"
+  },
+  {
+    "input": "tara call garne correct t ta ho. glitch ni hoina testai ho yo ads style",
+    "output": "Huss dada"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Dada service based company namilne rahixa"
+  },
+  {
+    "input": "not to worry not a big issue we have alternatives",
+    "output": "Haha huss"
+  },
+  {
+    "input": "last 2 daya coud not work on them",
+    "output": "huss dada"
+  },
+  {
+    "input": "office ko spare keys banayera, afu na bhako bela ni lholne bebasta garnu parxa bhai",
+    "output": "yes da, already given"
+  },
+  {
+    "input": "also as him to follow up old enqueries that came through our messangert.",
+    "output": "well dada, till now no cases. We are trying with hospitals nurses now"
+  },
+  {
+    "input": "give him facebook access etc if not already",
+    "output": "Sure dada,"
+  },
+  {
+    "input": "nurses bhanda caregivers bhai, nurse less xan, caregivers dherai demand plus dherai pain a pani",
+    "output": "haina da, Nurses at hospitals gets cases mostly"
+  },
+  {
+    "input": "if this campaign is not working i will create another campaign",
+    "output": "cases for caregiver"
+  },
+  {
+    "input": "oh ok, commission ma magne",
+    "output": "yes da"
+  },
+  {
+    "input": "good idea",
+    "output": "5% xuttyaideko xu uta"
+  },
+  {
+    "input": "are they approachable though",
+    "output": "apparently new guy had some connection with teaching hospitals"
+  },
+  {
+    "input": "oh that si very good to know",
+    "output": "yes da, aba directly hospital management will not show any interest in such low fees"
+  },
+  {
+    "input": "try maile asti bhaneko 2ala., work from home come and collect money from our office base din vhimsengola",
+    "output": "ae video wala?"
+  },
+  {
+    "input": "text post   kura haru garne different forums groups etc ma",
+    "output": "ae ah ahh"
+  },
+  {
+    "input": "persona recommendations gareko jasari",
+    "output": "right huss, aba tesma ma lagxu"
+  },
+  {
+    "input": "give them our office location os they know we are not running away with their money",
+    "output": "true, sure dada"
+  },
+  {
+    "input": "per post kati dine you decide, also limit 1 post per person a day.",
+    "output": "hmnn huss"
+  },
+  {
+    "input": "they also need to keep a record of live link, no live link meaning no payment for that link e. g if admin deletes their message",
+    "output": "oh true"
+  },
+  {
+    "input": "la bhai met eat aba, speak later",
+    "output": "Huss dada, me too"
+  },
+  {
+    "input": "if you really need it go and reset password bhai",
+    "output": "huss dada, sorted from webpage"
+  },
+  {
+    "input": "eh ok good",
+    "output": "indexing, etc working as intended"
+  },
+  {
+    "input": "search word is infistaff , no one will search with that word, unless they know us already",
+    "output": "yes da, keywords ni pushing"
+  },
+  {
+    "input": "medics ko ni seo doing hai??",
+    "output": "yes da"
+  },
+  {
+    "input": "etc types keywords sidhai",
+    "output": "huss dada"
+  },
+  {
+    "input": "home care nurse",
+    "output": "oh huss"
+  },
+  {
+    "input": "etc",
+    "output": "huss noted"
+  },
+  {
+    "input": "xa tara application complete garnu first ma ani pathauna milxa bhanne",
+    "output": "oh huss dada"
+  },
+  {
+    "input": "kata gayab bhai aja,, wanted a meeting with ,,",
+    "output": "now back dada"
+  },
+  {
+    "input": "anyways i tol dher, we will use their course approval fro ctevte for sometime only until we get our approval and give then revenus split until then",
+    "output": "ohh"
+  },
+  {
+    "input": "they are receiving at least 5 to 7 inqueries from kathmandu re ,, so their approval their customers we just run classes ,, no loss for us",
+    "output": "ho ho"
+  },
+  {
+    "input": "and we probably try and agree for 20 to 30% lets see",
+    "output": "oh ok"
+  },
+  {
+    "input": "also we do the same when we get uk approval ,, take it to pokhara but pay us revenue share of similar amount",
+    "output": "oh i see"
+  },
+  {
+    "input": "at least we will have something coming as revenue",
+    "output": "yes da, ekdamei needed"
+  },
+  {
+    "input": "did rabu da haru managed to push into govt level yet ??",
+    "output": "uta waiting for last installment"
+  },
+  {
+    "input": "sakyeko xaina na hamro side bata ??",
+    "output": "hamro side bata sakisako"
+  },
+  {
+    "input": "ok that will help a bit",
+    "output": "yes"
+  },
+  {
+    "input": "lets make ourselves available for whatssapp meeting with ",
+    "output": "oh okok, done"
+  },
+  {
+    "input": "lets do mou and move forward asap",
+    "output": "huss dada, good move"
+  },
+  {
+    "input": "and a goo dincome too",
+    "output": "ho dada, ekdam"
+  },
+  {
+    "input": "yes",
+    "output": "ae nice, temporary relief hunxa then"
+  },
+  {
+    "input": "also supports our original caregiver nurses ko side too",
+    "output": "yes ekdamei"
+  },
+  {
+    "input": "anyways jata paisa auxa ramrod tetai ali besi mehanat garera agi badaune",
+    "output": "huss dada, got it"
+  },
+  {
+    "input": "chimeki ni hundai xa",
+    "output": "yes"
+  },
+  {
+    "input": "hatar bhayena app lai",
+    "output": "oh okok, app pani Sameer le frontend ta saknei lagisako"
+  },
+  {
+    "input": "because web itself is very responsive already , mobile ma mobile view janxa already",
+    "output": "yes da, mobile ta backend connection matra baaki ho"
+  },
+  {
+    "input": "yes web ma views are not a brainer but controller and functions and posting methods etc le tiem lagi rako xa",
+    "output": "ho ho"
+  },
+  {
+    "input": "so yeta ready hune bittaikai ,, application for mobiles are easy",
+    "output": "true ekdam"
+  },
+  {
+    "input": "or pack eisting web into mobile version",
+    "output": "yes, this ta fastest method"
+  },
+  {
+    "input": "tara internet na huna jhoor dekhxa",
+    "output": "haha ahh"
+  },
+  {
+    "input": "unless we can show custome blade when no internet it may still work",
+    "output": "can show, no internet"
+  },
+  {
+    "input": "yes",
+    "output": "tara app can lunch aramle da"
+  },
+  {
+    "input": "anywasy we will think bhai",
+    "output": "frontend sakinei sako"
+  },
+  {
+    "input": "let me do this hai ta",
+    "output": "huss"
+  },
+  {
+    "input": "because post blade has different post areas",
+    "output": "oh"
+  },
+  {
+    "input": "ahile maile component layers bata hatayera yessai unstaggered blades banayer test gardai xu,,",
+    "output": "hmnn"
+  },
+  {
+    "input": "when each fo these forma works then finally will stagger them as alayer into postcard component view",
+    "output": "lol ke ke ho, 😂"
+  },
+  {
+    "input": "i haven't spoken to you about sbp fro a long time,  sang ata kura bhai rako hunxa",
+    "output": "going good dada, ahile doing two videos a day"
+  },
+  {
+    "input": "yes good",
+    "output": "few days ma lives are picking good"
+  },
+  {
+    "input": "slowly views pick garxa so no issues",
+    "output": "true truee"
+  },
+  {
+    "input": "who is working on videos, anyone yet?",
+    "output": "coming Saturday bata"
+  },
+  {
+    "input": "ali faster pace ma ,, halka commanding tarika le agadi badau,, keep it up",
+    "output": "Huss dada :)"
+  },
+  {
+    "input": "ah mic ke ma connected xa bhai",
+    "output": "Mic laptop ma"
+  },
+  {
+    "input": "oh i think need an interface i think",
+    "output": "Yes dada."
+  },
+  {
+    "input": "yesto ,, yesm ai can invrease volte and increase mic strength etc",
+    "output": "tyo mic ma decibel, echo chahi inbuilt xa"
+  },
+  {
+    "input": "also check mic settings on laptop",
+    "output": "huss"
+  },
+  {
+    "input": "why",
+    "output": "oh ok da, do they give free api to use?"
+  },
+  {
+    "input": "humm",
+    "output": "maile ni found free tier ko"
+  },
+  {
+    "input": "https://platform.openai.com/docs/guides/rate-limits?context=tier-free",
+    "output": "was just testing da"
+  },
+  {
+    "input": "ok nepal lai rahixa",
+    "output": "ohh"
+  },
+  {
+    "input": "as per above post , but you wont need my pro to do this",
+    "output": "yes yes, i found api"
+  },
+  {
+    "input": "afaile garna milx ajasto xa nepali kai geo location bata",
+    "output": "i see, good approach"
+  },
+  {
+    "input": "coding lai best kun xa bhai",
+    "output": "pahila mildeina thiyo, so i asked you, tara found it now"
+  },
+  {
+    "input": "chat gpt le especially aja dherai dukkha derako xa",
+    "output": "gpt nei dada"
+  },
+  {
+    "input": "they updated something and made even more messier",
+    "output": "hmn, large data handle garna nasakne jasto lagyo"
+  },
+  {
+    "input": "memory ni update gareko xu gpt ko ahiel a",
+    "output": "i heard grok ni good for coding"
+  },
+  {
+    "input": "but keep throwing wrong code or removing portion fo my working codes",
+    "output": "oh yes, yo frequently experienced"
+  },
+  {
+    "input": "web blade gardai ho ra kasaile?",
+    "output": "maile agi did dada"
+  },
+  {
+    "input": "web ma routes defined hai so app will not be affected",
+    "output": "yes dada"
+  },
+  {
+    "input": "good bhai.",
+    "output": "hmn checking"
+  },
+  {
+    "input": "we need to create blades for all the app features",
+    "output": "true"
+  },
+  {
+    "input": "eventually, admin access to branches. will be from front end backend access 2a a bad idea. but then we were learning",
+    "output": "hmnn but December 9 already gone"
+  },
+  {
+    "input": "tehi ta aja pathai rako xa feri",
+    "output": "right"
+  },
+  {
+    "input": "humm sayed date sachayera pathaula i kunai dya. jut keep and eye on this server ko live, just incase it ends suddenly",
+    "output": "huss huss"
+  },
+  {
+    "input": "if all good yeta ni locally i can start advertising, as long as users can see their relatives reports etc",
+    "output": "Yes da, we can fulfill it"
+  },
+  {
+    "input": "sure",
+    "output": "Huss. Australia ma i can see good potential"
+  },
+  {
+    "input": "yes australia, uk usa canada tira xa potential",
+    "output": "Yes da, because yo system ko actual value only they can get"
+  },
+  {
+    "input": "when iso is paid certificate",
+    "output": "Oh huss"
+  },
+  {
+    "input": "tyo agi ko start ma mistake bolne kt hai.",
+    "output": "Haha yes"
+  },
+  {
+    "input": "ali hype garera bolne. but proper scritlpt bhaye she should do good",
+    "output": "Oh huss"
+  },
+  {
+    "input": "ke ko student ho",
+    "output": "Exactly"
+  },
+  {
+    "input": "kura milyo sabai ko teso bhaye",
+    "output": "Marketing work shes doing aru company ma"
+  },
+  {
+    "input": "good",
+    "output": "System finally good dekhirahko xa"
+  },
+  {
+    "input": "make yourself available at around nepal ko 6 to 7 pm hai",
+    "output": "Huss dada will surely"
+  },
+  {
+    "input": "yes bhai aba in about 40 minutes",
+    "output": "Huss dada"
+  },
+  {
+    "input": "‎missed video call, ‎click to call back",
+    "output": "Ready"
+  },
+  {
+    "input": "‎video call, ‎ended",
+    "output": "u awake da?"
+  },
+  {
+    "input": "all good",
+    "output": "ok lemme video call from studio setup"
+  },
+  {
+    "input": "natra wait i dill share here",
+    "output": "Out dada ahile"
+  },
+  {
+    "input": "no worries bhai ,, drafting few points i will copy you later once done",
+    "output": "Husss"
+  },
+  {
+    "input": "we can discuss later no worries bhai,, enjoy",
+    "output": "Huss dada surely"
+  },
+  {
+    "input": "and they post it on the social media channel, whoever gets most views etc no garna sakyo.",
+    "output": "Good idea actually"
+  },
+  {
+    "input": "ali ali congestion bhako le",
+    "output": "Yes sustainable way i think l"
+  },
+  {
+    "input": "partnership agreement",
+    "output": "Huss dada"
+  },
+  {
+    "input": "check this hai, if we are all happy, i will send a roos",
+    "output": "This seems good"
+  },
+  {
+    "input": "1. existing partnership continuation:",
+    "output": "Competition nahune kura i was thinking"
+  },
+  {
+    "input": "both handled by us haina",
+    "output": "Yes"
+  },
+  {
+    "input": "not yet, forward garera, let's discuss and adapt bhaneko xu",
+    "output": "huss"
+  },
+  {
+    "input": "you too check carefully and see afulai aftaryo ta pardaina??",
+    "output": "huss rechecking"
+  },
+  {
+    "input": "do you happen to remember google map api??",
+    "output": "also, tyo established classrooms place we will keep hai"
+  },
+  {
+    "input": "share bhai",
+    "output": "right right"
+  },
+  {
+    "input": "testing on chimeki , kaam garla ni yeta ni??",
+    "output": "yes majjale"
+  },
+  {
+    "input": "geolocation done",
+    "output": "AIzaSyDFLRZ_alH-pzS4w2diu13--fyqguJVJU8"
+  },
+  {
+    "input": "aba location based afai pick hunxa",
+    "output": "oh i see,"
+  },
+  {
+    "input": "if all work it should",
+    "output": "nice"
+  },
+  {
+    "input": "it is picking up phew",
+    "output": "noiceee"
+  },
+  {
+    "input": "aba khayera halka milauxu",
+    "output": "nice huss dada"
+  },
+  {
+    "input": "mula last 2 days dekhi ke hunan bhanxu,, map api nai worng deyera",
+    "output": "lya hora"
+  },
+  {
+    "input": "don't wory sorted now",
+    "output": "oh huss"
+  },
+  {
+    "input": "‎video call, ‎ended",
+    "output": "apparently people here are doing exact same for australia"
+  },
+  {
+    "input": "simple",
+    "output": "oh yes, heard about it"
+  },
+  {
+    "input": "humm can try",
+    "output": "right, euta project matra le we can survive 1 month"
+  },
+  {
+    "input": "humm",
+    "output": "invited dada, facebook page ma to you"
+  },
+  {
+    "input": "ads na garau, organic traffic bata khojsu",
+    "output": "oh i see"
+  },
+  {
+    "input": "uk ko lagi i mean",
+    "output": "huss dada"
+  },
+  {
+    "input": "khasai hunna",
+    "output": "oh oh"
+  },
+  {
+    "input": "ani accountant cost",
+    "output": "right"
+  },
+  {
+    "input": "unless we have a big business it is not cost effective",
+    "output": "oh huss"
+  },
+  {
+    "input": "is he going in the right direction",
+    "output": "yes da"
+  },
+  {
+    "input": "daily task set gareko xa bhai",
+    "output": "gareko xa da, but cases ahile samma 0 nei xa"
+  },
+  {
+    "input": "ask him to create a log, give him a diary to use it as a record log book.",
+    "output": "caregivers koi jodina auda, he logs in the pc"
+  },
+  {
+    "input": "wherever he does speaks to someone over phone. logbthe details like their name number.",
+    "output": "huss"
+  },
+  {
+    "input": "caregiver manage garne side bhayo work line side ma ke garxa ta",
+    "output": "work side ma he's active on caregiver groups"
+  },
+  {
+    "input": "is he posting on different forums groups, actively involved in promoting within local hospitals nurses etc",
+    "output": "yes"
+  },
+  {
+    "input": "ok good. ask him to log as much as possible so later we can analyze and see what is working and what not working",
+    "output": "huss dada"
+  },
+  {
+    "input": "any queries from this.",
+    "output": "xaina dada"
+  },
+  {
+    "input": "pharmacies haru ma ni poster rakhne kura garau na",
+    "output": "oh right, huss"
+  },
+  {
+    "input": "course push garau, ali sajilay earnings huna halxa  jasto kehi na aune le gari raxa bhane paxi we can do it much better",
+    "output": "yes ekdam 💪"
+  },
+  {
+    "input": "apply kahile samma hola bhai hamro..",
+    "output": "ajako 1 week ma documents all should be ready"
+  },
+  {
+    "input": "because i do nkot 2ant to keep them in limbo. daddy le bhaneko jasto. i will just let them know as soon as possible",
+    "output": "yes dada"
+  },
+  {
+    "input": "ok checking",
+    "output": "akro main hurdle vaneko instructor khojera, we have to make an agreement"
+  },
+  {
+    "input": "instructor pauxa bhai easily, issue hunna",
+    "output": "2 instructor"
+  },
+  {
+    "input": "baru let's throw ads on our facebook page and group",
+    "output": "oh right"
+  },
+  {
+    "input": "i will also see if i can get top up qualifications for ctevte graduates too.",
+    "output": "Noice huss"
+  },
+  {
+    "input": "so we can 3xtend our reach to already 3ducated ones too.",
+    "output": "hoo, that will help immensely"
+  },
+  {
+    "input": "huss bhia. let's do this. i will start the process yeta chitta",
+    "output": "https://www.facebook.com/groups/medicsnepal/permalink/1077159857379933/"
+  },
+  {
+    "input": "i don't think i need to wait for ctevte qual",
+    "output": "yes da,"
+  },
+  {
+    "input": "nice kahile ko post ho lol",
+    "output": "haha 11 november"
+  },
+  {
+    "input": "no response yesma",
+    "output": "no da,"
+  },
+  {
+    "input": "on a regular basis",
+    "output": "huss, voli sumedha lai will make create"
+  },
+  {
+    "input": "job post may do better, also if yiu need caregiver, call us type ko post should go regularly",
+    "output": "right, huss"
+  },
+  {
+    "input": "mero yo chimeki ni doing good finally, at least post garne feature bhaye we could go live.",
+    "output": "oho right"
+  },
+  {
+    "input": "ah app paxi garne bhai",
+    "output": "AI?"
+  },
+  {
+    "input": "nepal lai web first, then app",
+    "output": "yes yes"
+  },
+  {
+    "input": "ani lekheko ai lekhxa autocorrection le 😂",
+    "output": "ae ae🤣"
+  },
+  {
+    "input": "kati charge garxan mula haru le",
+    "output": "no free hio"
+  },
+  {
+    "input": "email medics ko ma auxa",
+    "output": "medics ko infistaff ma"
+  },
+  {
+    "input": "why did they ask me to contact them to access it",
+    "output": "oh hora, it should work ettikei"
+  },
+  {
+    "input": "this link",
+    "output": "ae my bad"
+  },
+  {
+    "input": "eh huss bhia will check tomorrow, aja too much pc bhayo",
+    "output": "huss dada, ani best thing, you can host this in your local ip from your strong pc"
+  },
+  {
+    "input": "will try tomorrow hai ta",
+    "output": "Huss aramle da"
+  },
+  {
+    "input": "katti ko smart xa bhanne ho aba",
+    "output": "depends on which modal you choose"
+  },
+  {
+    "input": "ok",
+    "output": "huss, goodzznight dada"
+  },
+  {
+    "input": "gnite bhai",
+    "output": "woah woah"
+  },
+  {
+    "input": "1 week ko traffic is very good for s startup",
+    "output": "ohh nice nice 🔥"
+  },
+  {
+    "input": "tara feri you will exclude others looking for different services",
+    "output": "hmnn true"
+  },
+  {
+    "input": "starting ma teso na garda wider audience capture hunxa",
+    "output": "oh right right"
+  },
+  {
+    "input": "paxi leader hundai janda, specify niche",
+    "output": "right good diea"
+  },
+  {
+    "input": "huss bhai",
+    "output": "yes"
+  },
+  {
+    "input": "eh nice battisputali ko ho",
+    "output": "right"
+  },
+  {
+    "input": "phew finally auto create hune bhay aba sabai jata jata neighbours xan teta tta",
+    "output": "ohoo"
+  },
+  {
+    "input": "worldwide jata bhaye ni no issue system le automatically fetch garxa neighbourhood , phew",
+    "output": "nice nicee, nearest location vanera hai"
+  },
+  {
+    "input": "or km",
+    "output": "hmn yes, yo ni simple code xa. parc ma already use xa logic"
+  },
+  {
+    "input": "nice",
+    "output": "radius based hunxa"
+  },
+  {
+    "input": "i will check with you, yeta ko halta yeta uti sano sano milauxu ani",
+    "output": "tara we might need border approach"
+  },
+  {
+    "input": "one person can be in multiple neighborhoods",
+    "output": "hernu parxa tyo chahi"
+  },
+  {
+    "input": "huss bhai sano sano kura le time lagirako xa",
+    "output": "post tira?"
+  },
+  {
+    "input": "chat side dallai baki xa choyeko xaina",
+    "output": "ahh, teita, tara can give him dada"
+  },
+  {
+    "input": "hunxa give him chat nio ta teso bhaye arko side front ready xa bhane ta",
+    "output": "yes huss"
+  },
+  {
+    "input": "ask him to do it on a localhost",
+    "output": "yes da sure"
+  },
+  {
+    "input": "he only has to do is make change inside chat folders only",
+    "output": "huss, and he can send modified files to you"
+  },
+  {
+    "input": "define routes after ######## so we know chat routes are between those",
+    "output": "got it"
+  },
+  {
+    "input": "and no need to replace full web route teti portion copy paste will work",
+    "output": "ho ho"
+  },
+  {
+    "input": "huss bhai thank you",
+    "output": "huss da :)"
+  },
+  {
+    "input": "will be easier if he has something to look at",
+    "output": "huss"
+  },
+  {
+    "input": "don't worry found the answer here",
+    "output": "oh i see"
+  },
+  {
+    "input": "oh wait doing differently",
+    "output": "true, next door uses OpenStreetMap i thiunk"
+  },
+  {
+    "input": "we can use openstreetmap too , tara self install garnu parxa afno server ma",
+    "output": "oh"
+  },
+  {
+    "input": "ahile lai man xaina teso garna",
+    "output": "yes, lets not overcomplicate"
+  },
+  {
+    "input": "paxi we certainly need a switch into our own server when it becomes very widely used",
+    "output": "right"
+  },
+  {
+    "input": "ani geo centre names kata bata populate hunxa ?",
+    "output": "ahh feri, each location ko radius kati rakhne nei fix hunna"
+  },
+  {
+    "input": "wait testing few things",
+    "output": "hus"
+  },
+  {
+    "input": "i think i have a solution",
+    "output": "ohh"
+  },
+  {
+    "input": "worked",
+    "output": "oho ke gariso"
+  },
+  {
+    "input": "halka logic change gareko google ma already neighbourhood bhanne hundo rahixa address component ma , just tehi fetch gare",
+    "output": "ohhhh"
+  },
+  {
+    "input": "aba i will also try and fetch sublocality and locality too to make things better filterable in the future",
+    "output": "yes ekdam"
+  },
+  {
+    "input": "gareko be gardeu hai",
+    "output": "yes da"
+  },
+  {
+    "input": "yes bhai lagdaina, sayed table halka modify parxa ani logic ma fields add garne ta ho",
+    "output": "right huss"
+  },
+  {
+    "input": "fetched all 3 correctly , name in this case is actual neighbourhood",
+    "output": "nice, vanepaxi aba post tira baaki vayo"
+  },
+  {
+    "input": "aba kathmandu ma ,, sano sano area ko neighbourhood hunxa, so we may still need logic to handle that further",
+    "output": "yes"
+  },
+  {
+    "input": "post asti bhai rako theyo ahile few things alter gareko xu so post bhayena dashboard am update hunna, so need to look there",
+    "output": "yes, later we will hire someone to manually create polygons of kathmandu"
+  },
+  {
+    "input": "most;ly blade le time khaye",
+    "output": "oh"
+  },
+  {
+    "input": "ahile i made everything iframe",
+    "output": "iframe?"
+  },
+  {
+    "input": "yes iframe",
+    "output": "ohhh i see"
+  },
+  {
+    "input": "i mean forms haru sabai iframe ma rest ta normal ma xa",
+    "output": "i see"
+  },
+  {
+    "input": "so this iframe can be called from anywhere we want as a popup",
+    "output": "right, dynamic data linkage vayo"
+  },
+  {
+    "input": "yes bhai yo mostly post create garna, event create garna, polls , yestai post haru lai matra ho tara",
+    "output": "oh oh"
+  },
+  {
+    "input": "so user do not have to leave the page they are in when creating a post poll events safety notice etc",
+    "output": "true"
+  },
+  {
+    "input": "tyo fix garepaxi almost done hai , except fro css",
+    "output": "nice"
+  },
+  {
+    "input": "which i am very bad with",
+    "output": "css, Sameer's the guy"
+  },
+  {
+    "input": "halka ready garxu basic ani sameeer lai sab bhayepaxi deadline deyera bawaal banauna lagaunu parxa ,, when i sa babal,, i only mean to make it very simple yet appealing lol",
+    "output": "haha yes yes, figma ma final garera garnu parxa"
+  },
+  {
+    "input": "sameer le overdrive garxa akhile kahi too much css lol",
+    "output": "yes da,"
+  },
+  {
+    "input": "lol",
+    "output": "css favourite feri"
+  },
+  {
+    "input": "la bhai i am updating all files and database drop and recreate now",
+    "output": "huss dada"
+  },
+  {
+    "input": "gentle aune jane bistarai type ko",
+    "output": "oh lol, mero ears lai chahi dhoka diyo"
+  },
+  {
+    "input": "aja gareko naya update reflect bhako xaina forms haru ma,,",
+    "output": "nice huss"
+  },
+  {
+    "input": "teacher ko ads halne ho ki anta forum ma paid wala",
+    "output": "oh i see"
+  },
+  {
+    "input": "like lovely nepali nurse ke ke bhanne xa ni tya",
+    "output": "yes"
+  },
+  {
+    "input": "i will ask few nurses i know",
+    "output": "yes da, huss"
+  },
+  {
+    "input": "tara tomorrow aja nepal ma too late",
+    "output": "sure sure"
+  },
+  {
+    "input": "remind me la bhai incase i forgot",
+    "output": "huss"
+  },
+  {
+    "input": "application stage mai cv chaine rahixa teacher ko so we need one to help us sort this",
+    "output": "tei yes"
+  },
+  {
+    "input": "speka tomorrow",
+    "output": "huss, gnzznite dada"
+  },
+  {
+    "input": "ke xa bhai,, all good",
+    "output": "yes da  all goodz"
+  },
+  {
+    "input": "mero ni almost done huna thalyo basic post, now it picks up neighbourhood",
+    "output": "right, we tested aja"
+  },
+  {
+    "input": "displays posts to specific neighbourhood people only",
+    "output": "ohh nice"
+  },
+  {
+    "input": "new blade ma no iframe ,, i removed it",
+    "output": "haha, ok da, Sameer working on chat"
+  },
+  {
+    "input": "perfect , that is completely different module so will not affect what i am working on or wil not affect his work due to my updates",
+    "output": "yes yes"
+  },
+  {
+    "input": "so please adk him to redownload datadump file tomorrow",
+    "output": "huss dada, i will give him updated file"
+  },
+  {
+    "input": "i have added neighbourhood id to be indexed , so when there is aa duplicate neighbourhood people are trying to pass it rather verifies from id ,, making things way less resource intensive",
+    "output": "oh hus"
+  },
+  {
+    "input": "oh nice,, how do dyou connect local host to online data source ??",
+    "output": "using their ip address,"
+  },
+  {
+    "input": "oh cool..",
+    "output": "hamro database ko"
+  },
+  {
+    "input": "backup database hunna incase something goes wrong",
+    "output": "haha yes yes"
+  },
+  {
+    "input": "tara if you don't modify database itseld ,, i think it is okay",
+    "output": "yes da"
+  },
+  {
+    "input": "eh eh huss bhai",
+    "output": "right, main migration, etc choyena vane all good"
+  },
+  {
+    "input": "ma aja nee dto go out, bhaina bhane i will update database tomorrow",
+    "output": "Sure sure"
+  },
+  {
+    "input": "ahile nai",
+    "output": "huss, we will download latest voli"
+  },
+  {
+    "input": "check ,, blades aba you will see the difference",
+    "output": "Nice huss da"
+  },
+  {
+    "input": "but check how they load now",
+    "output": "Huss"
+  },
+  {
+    "input": "forms ready bhayepaxi,, dashboard is easy work,, ke ke display garne na garne matra ho tesma",
+    "output": "Hus its loading good speed"
+  },
+  {
+    "input": "yes bhai faster",
+    "output": "Oh right"
+  },
+  {
+    "input": "database update paxi ajha faster hunxa especially address change bit",
+    "output": "Oh oh"
+  },
+  {
+    "input": "aba i need to go hai",
+    "output": "Ohh i see"
+  },
+  {
+    "input": "mathi dashboard ma adking fro address to show local content",
+    "output": "Nice"
+  },
+  {
+    "input": "post card ma,, asking fro address to create post",
+    "output": "I see"
+  },
+  {
+    "input": "basically same notification banner nai ho",
+    "output": "Ohokok"
+  },
+  {
+    "input": "sano sano kura bichar garna khojeko xu maile",
+    "output": "True"
+  },
+  {
+    "input": "la bhai speak later",
+    "output": "Huss dada"
+  },
+  {
+    "input": "anything new bhai,, that i need to know,, please keep giving me daily updates bhai,, so i too know what is happening la",
+    "output": "map showing"
+  },
+  {
+    "input": "ye sbhai finally map showing",
+    "output": "chat ma Sameer is working, frontend is almost complete"
+  },
+  {
+    "input": "but will make it static and let user update sales location too",
+    "output": "huss"
+  },
+  {
+    "input": "tara immediate implementation is unnecessary , can be feature upgrade for later",
+    "output": "voli we have video shooting session, asti she got sick so had to delay"
+  },
+  {
+    "input": " has not got back to me,, but we are sticking to our plan",
+    "output": "and regarding ctevt, the process of paper work is going on"
+  },
+  {
+    "input": "we will do our oen approval",
+    "output": "yes da 💪🔥"
+  },
+  {
+    "input": "of another good idea",
+    "output": "yes da"
+  },
+  {
+    "input": "online marketing bhanda offline marketing ma spend hunx atesari ,, word of mouth ni daro janxa",
+    "output": "yes da, this will work"
+  },
+  {
+    "input": "board banda ni ramro banner , because temp ho ni store ni garna easy hunxa",
+    "output": "right right"
+  },
+  {
+    "input": "put up senior sewa ko lagi",
+    "output": "true"
+  },
+  {
+    "input": "something catchy like that",
+    "output": "ho, can do it"
+  },
+  {
+    "input": "ani can we advertise caregiver course too??",
+    "output": "yes da"
+  },
+  {
+    "input": "without ctevte ki wait garne dherai time lagdain abhane??",
+    "output": "hmnn, sakinxa dada"
+  },
+  {
+    "input": "lets do it then",
+    "output": "lemme pull up euta website"
+  },
+  {
+    "input": "we will give our uk ko award certificate",
+    "output": "yes"
+  },
+  {
+    "input": "call the pcl nurses that applied befre to us",
+    "output": "tutor, right. uta caregiver ko ad lets remove"
+  },
+  {
+    "input": "or even bsc nurses that made an application before",
+    "output": "yes"
+  },
+  {
+    "input": "check their website you will know ni",
+    "output": "nope, cant find any curriculum for those 2"
+  },
+  {
+    "input": "yesai bhanan sakinan bholi call them as prospective student and see what award you get after course completion, tyo bhai lai clal garan lagauda ni bhayo",
+    "output": "yes, planning to do that"
+  },
+  {
+    "input": "we nee dto kepe rolling as soon as possible",
+    "output": "voli euta video, for this too will make"
+  },
+  {
+    "input": "huss bhai",
+    "output": "just Australian based rahixa dada"
+  },
+  {
+    "input": "nice,,",
+    "output": "to make it more legit, uk kei subject, requirements follow garum hola"
+  },
+  {
+    "input": "lets do uk based course",
+    "output": "yes da"
+  },
+  {
+    "input": "lets start planning the delivery steps",
+    "output": "huss dada, i'll be looking for instructors"
+  },
+  {
+    "input": "can you look into that bhai",
+    "output": "right"
+  },
+  {
+    "input": "nepal ko i will have no idea,, so you hav to do that",
+    "output": "huss dada, eta ko i will start doing"
+  },
+  {
+    "input": "write everything , ke ke chainxa fully from this chat stage to reach classroom stage with full of students",
+    "output": "huss on it"
+  },
+  {
+    "input": "brb hai ta",
+    "output": "huss dada"
+  },
+  {
+    "input": "sure hunxa ni",
+    "output": "Pre-Training Session Planning:"
+  },
+  {
+    "input": "halt garnu pardaina ni bhai. halt ko lagi service users pani hunubparyon",
+    "output": "true"
+  },
+  {
+    "input": "yo garne tyo na garne garnu hunna afnai area ma parxa bhane",
+    "output": "true, eta financial drain vayera socheko"
+  },
+  {
+    "input": "ke drain bhayo, yo service le,, ani kati save hunxa,, malai ta bilkul idea xaina ahile ko..",
+    "output": "tara sujal bhai matra xa, so not much"
+  },
+  {
+    "input": "usko matra extra ho?? 10k",
+    "output": "yes usko 10"
+  },
+  {
+    "input": "ok teso bhaye ta hatauda hunxa ,,",
+    "output": "huss dada"
+  },
+  {
+    "input": "because plc nurse liyera feri health campaign garda ni cost auxa ,, which will be marketing cost",
+    "output": "true"
+  },
+  {
+    "input": "khasai kaam bhayena uslai rakhera, i was aware tara starting mai",
+    "output": "true da"
+  },
+  {
+    "input": "additional work afu le garna na sakne gari business auda matra additional staff rakhnu parxa jahile",
+    "output": "oh got it"
+  },
+  {
+    "input": "tara plc nurse ko or bsc nurse specialised work bhayo so tyo ta afu le garna sakinna so testo thau ma parxa staff",
+    "output": "oh true, basically (If you can't do, hire)"
+  },
+  {
+    "input": "no,, if you cant do still try and do it unless you have already done too much and are saturated  , but if you have no skills or qualification to do it then hire",
+    "output": "oh hus"
+  },
+  {
+    "input": "very good and professional bhai keep it up",
+    "output": "Thank you dada ;)"
+  },
+  {
+    "input": "ho",
+    "output": "Yo objectives haru thapne"
+  },
+  {
+    "input": "manxe le company bina run garxan, let's do it later teso bhaye bhai.",
+    "output": "Huss dada."
+  },
+  {
+    "input": "check medico network le kebderako ho",
+    "output": "Nice, uniharuko ctevt ho"
+  },
+  {
+    "input": "start ma tehi hunxa jasto lagxa sabai6ko",
+    "output": "Yes level 1 ctevt xa uniharuko"
+  },
+  {
+    "input": "international wala.",
+    "output": "Yes call process going"
+  },
+  {
+    "input": "prospective student bbanera enquery",
+    "output": "Oh huss"
+  },
+  {
+    "input": "dusman ko kamjori patta lagau bhai 😅",
+    "output": "Yes da 💪, ahile pricing bujhdei xau competitor ko 😂"
+  },
+  {
+    "input": "parc app ke bhayo na chalaune re ki ke bbain",
+    "output": "Haina da, one investor ghar banaudei ho, paisa samasya vaako xa, halka delay hune vo"
+  },
+  {
+    "input": "govt ko kaslai paisa khanu parera bhaneko jasto lagyo. yeta kaam gareko dekhaune, uta tanna khane",
+    "output": "Haina haina"
+  },
+  {
+    "input": "eh ok",
+    "output": "Painxa"
+  },
+  {
+    "input": "ani app already running xaina?",
+    "output": "Yes, maile sakiyeko xa vaneko xuina"
+  },
+  {
+    "input": "eh good bhai.",
+    "output": "Work ahile stop vaako xa vandeko xu"
+  },
+  {
+    "input": "let's see anyways,",
+    "output": "😂😂haha huss"
+  },
+  {
+    "input": "tehi ta, business sanga matlab",
+    "output": "Yes"
+  },
+  {
+    "input": "huss bhai, find about those international courses, ke ko certificate, kata ko approval etc few colleges ko hai",
+    "output": "Got it da"
+  },
+  {
+    "input": "then i will find its adra bhudi",
+    "output": "Huss dada. 😂💪"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Florence Home Care and caregiver center"
+  },
+  {
+    "input": "yes tara award certificate from where, tyo bujhnu bhaneko",
+    "output": "On it"
+  },
+  {
+    "input": "e. g if australia, australia ko ko bata",
+    "output": "Ohh okok"
+  },
+  {
+    "input": "huss bhai thank you",
+    "output": "None of these have affiliation dada"
+  },
+  {
+    "input": "ani ke ko adhar ma international bhanxan",
+    "output": "Just checked RTO australia, official australia orgz for providing training"
+  },
+  {
+    "input": "can you please call and check, they may have different arrangements",
+    "output": "Call pani on the way, uthayeka xsina"
+  },
+  {
+    "input": "need to find arrangements ke ho ta, how are they international",
+    "output": "Huss"
+  },
+  {
+    "input": "let me know",
+    "output": "Huss"
+  },
+  {
+    "input": "uniharu ko online course lai padhaune hola nepal ma",
+    "output": "Yes checking"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Certificates australia vari valid re"
+  },
+  {
+    "input": "https://www.tafensw.edu.au/course-areas/healthcare/courses/certificate-iii-in-health-services-assistance--hlt33115-01/offerings/hlt33115-01v04-25ote-144",
+    "output": "Ok arko Australian vanera gareko xa"
+  },
+  {
+    "input": "oh so they are not doing australia then, just saying they do it",
+    "output": "Yes utako curriculum nei ho re"
+  },
+  {
+    "input": "ok",
+    "output": "Oh online po"
+  },
+  {
+    "input": "caregiver ko, i will send curriculum once teacher is recruited.",
+    "output": "Right"
+  },
+  {
+    "input": "like kidney tray, tweezers, mosquito forceps, gauze ⚠️, cotton, gloves both examinations and utility, soap, etc like ctevte ko jastai lagbhag",
+    "output": "Oh huss"
+  },
+  {
+    "input": "exactly, tyo prospective student lai dekhauna lai ho, marketing, aru hoina",
+    "output": "Right"
+  },
+  {
+    "input": "1 lakh jati ma auxa, hami jatti ko advance kasaile use gardaina bhanna sakinxa ani",
+    "output": "Ho hoo"
+  },
+  {
+    "input": "yes, we can probably decide on start date and start recruiting students too. after we add our course details online",
+    "output": "Got it"
+  },
+  {
+    "input": "so people can visit us",
+    "output": "Huss da, regarding front desk u have any recommendations?"
+  },
+  {
+    "input": "use standard desk but keep 2 ali good seats, for customers who come to enquery",
+    "output": "Huss dada"
+  },
+  {
+    "input": "paxi",
+    "output": "Huss da"
+  },
+  {
+    "input": "customer basne chair, ali fancy low height ko hai",
+    "output": "Oh huss"
+  },
+  {
+    "input": "ahile no point spending a lot hai, they are upgrades for later",
+    "output": "True dada"
+  },
+  {
+    "input": "you will get a very good idea check",
+    "output": "Woah clean"
+  },
+  {
+    "input": "yesto staff side ani i query customer side setup",
+    "output": "Oh huss"
+  },
+  {
+    "input": "yes bhia clean design, eventually agi web jastai",
+    "output": "Right"
+  },
+  {
+    "input": "yes",
+    "output": "Yes"
+  },
+  {
+    "input": "value add garne psychological words rakhera poster",
+    "output": "Husss"
+  },
+  {
+    "input": "etc",
+    "output": "Right right"
+  },
+  {
+    "input": "herau yo far future lai hai tara",
+    "output": "Yes da, tyo garnei parxa"
+  },
+  {
+    "input": "ah risk pani hunxa, incase problem ayo bhane uta. kathmandu office ma kich kich auxa",
+    "output": "Yes Manpower"
+  },
+  {
+    "input": "tehi bhayera chimeki app xa janu agadi nai tyo area ko halka access dine gari milauna sakyela kin",
+    "output": "Woah"
+  },
+  {
+    "input": "farak pardaina",
+    "output": "oh hora ok"
+  },
+  {
+    "input": "ctevte apply na garne kura kahile bhayexa no idea",
+    "output": "Huss da, applying"
+  },
+  {
+    "input": "brb",
+    "output": "Haha huss"
+  },
+  {
+    "input": "‎video call, ‎ended",
+    "output": "dada, hows this"
+  },
+  {
+    "input": "good work",
+    "output": "Thank you dada :). these will be consistent"
+  },
+  {
+    "input": "good bhai, let's do it start ma clients lai halka hiccups hola. but. guidance etc le we can sort all issues.",
+    "output": "right huss"
+  },
+  {
+    "input": "also keep monitoring sbp as well.",
+    "output": "Haha no worries da"
+  },
+  {
+    "input": " can get carried away and may produce repetitive content styles themes etc",
+    "output": "huss"
+  },
+  {
+    "input": "how is it doing, is it going down or as usual. have you had a chance to analyze yet?",
+    "output": "Hijo slight spike in views after thumbnail text"
+  },
+  {
+    "input": "good live also need the text thumbnails",
+    "output": "Overall ma after introducing regular uploads, channel is going uphill"
+  },
+  {
+    "input": "let get know hai",
+    "output": "Hijoko ma thiyo text"
+  },
+  {
+    "input": "eh ok teso bhaye sayed asti ko hola ki. anyways let's keep doing it again",
+    "output": "Yes"
+  },
+  {
+    "input": "also sameer is working on public services side",
+    "output": "Yes da."
+  },
+  {
+    "input": "eh juice maile ads jhikeko xuina. it's running as usual",
+    "output": "Around 25k ma surgical items haru aune rahuxa"
+  },
+  {
+    "input": "nice",
+    "output": "Yes hospital bed and wheelchair i cluded"
+  },
+  {
+    "input": "ke ke xa send me the quote and list",
+    "output": "Huss"
+  },
+  {
+    "input": "ok",
+    "output": "Yes da all 1 set"
+  },
+  {
+    "input": "tya da haru ko ma xaina hai, khali space matra ho..",
+    "output": "Yes da khali. A"
+  },
+  {
+    "input": "school ko jasto desk bench chainna hola sayed.",
+    "output": "Exam haru garaunu parxa da, so lekhne chahido rahixa"
+  },
+  {
+    "input": "feri nepal ho ramro bhanda india ma chaleko matra manxan 🤣",
+    "output": "🤣haha"
+  },
+  {
+    "input": "eh ok makes sense teso bhaye ta",
+    "output": "Tyo chahi ho"
+  },
+  {
+    "input": "must nai bhayo",
+    "output": "Yes da navaye ta cheating lol"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Huss da"
+  },
+  {
+    "input": "tyo caregiver wala keta le ke gardai xa",
+    "output": "Ae ahh, maile facebook ko laagi uslai rakhna milena da"
+  },
+  {
+    "input": "nice",
+    "output": "From 5-6 hospitals"
+  },
+  {
+    "input": "hamro record lai bhannu, feri na ramro manxa",
+    "output": "Huss"
+  },
+  {
+    "input": "for follow up etc",
+    "output": "Yes da, eta facebook ko access payepaxi easier hunxa"
+  },
+  {
+    "input": "kasari dine ta",
+    "output": "Sumedha lai jastei da"
+  },
+  {
+    "input": "who can give access, me ho ra?",
+    "output": "Yes da, maile milena"
+  },
+  {
+    "input": "let me check hai ta phone bata mile i can natra pc ta can't use for still few more days",
+    "output": "Huss aramle"
+  },
+  {
+    "input": "what's his details. sumedha lai hataune ho",
+    "output": "Haina da, shes posting too"
+  },
+  {
+    "input": "send this bhai details",
+    "output": "Hus"
+  },
+  {
+    "input": "done ask em to accept",
+    "output": "Huss"
+  },
+  {
+    "input": "humm bark ta i dipen dent service dine ho",
+    "output": "Oh teita. Reddit tira not worth lekhya rahixa"
+  },
+  {
+    "input": "mistri, house maintenance etc ko lagi usually people use",
+    "output": "Ohh ohh"
+  },
+  {
+    "input": "lea ganera garne guaranteed jasl garxa fake kura garxa",
+    "output": "Teita"
+  },
+  {
+    "input": "lead must be extremely targeted, afu le bahek aru le sakdina thyakkai chaine lead gane rate garna.",
+    "output": "Sounds true"
+  },
+  {
+    "input": "ani ta kina untrue kura bhanxu ta ma, mula 😅",
+    "output": "Hoho😂"
+  },
+  {
+    "input": "yes keep spreading words, that will be never ending process and will always do that forever",
+    "output": "Huss da, any recommendations da?"
+  },
+  {
+    "input": "foreign tira i will do you don't worry. but i am still not convinced of report system hamro, so i am still not confident",
+    "output": "True. Experiment hunei paako xaina"
+  },
+  {
+    "input": "pdf export report bhaye 3asy hunxa ko baru?",
+    "output": "Hmnn tyo ta milxa"
+  },
+  {
+    "input": "humm csv properly presentable format ma hunna.",
+    "output": "Yes euta html banaunu parxa"
+  },
+  {
+    "input": "pdf milxa as far as i k ow on react native. print feature matra chainxa, print pdf",
+    "output": "Oh phone batei"
+  },
+  {
+    "input": "yes and save to file in pdf",
+    "output": "True"
+  },
+  {
+    "input": "but let's get 1 or 2 leads first then we can look i to fixing it quickly",
+    "output": "Yes da huss"
+  },
+  {
+    "input": "wow very good bhai, we will get some reasons for sure",
+    "output": "Yes da 💪"
+  },
+  {
+    "input": "yes is this is something we can do. by the way he is your dada not uncle 😂",
+    "output": "We can sell at around 8k per year per montessory."
+  },
+  {
+    "input": "brb",
+    "output": "Huss"
+  },
+  {
+    "input": "nice",
+    "output": "Aja whole day tesmei thiye. Aba we will have to proceed with equipments"
+  },
+  {
+    "input": "money management bhanne ni hunxa bhai.",
+    "output": "Oh right, saman agadi pre booking"
+  },
+  {
+    "input": "student recruitment garne, deposit bata equipment kinne ho",
+    "output": "Yes da,"
+  },
+  {
+    "input": "basic saman jatti pauxa bhai issue hunna",
+    "output": "Right right"
+  },
+  {
+    "input": "let's start recruiting students",
+    "output": "Huss dada on it tesovaye"
+  },
+  {
+    "input": "let daddy k ow docs ayo, so we can start ctevte before he gets busy",
+    "output": "Yes ma ekxin ma doing phone after khana"
+  },
+  {
+    "input": "speak later",
+    "output": "Husss da"
+  },
+  {
+    "input": "if he wants to connect me i am here hai",
+    "output": "Hus hus"
+  },
+  {
+    "input": "kati badaune bhai",
+    "output": "37 dada"
+  },
+  {
+    "input": "excel ma still maintaining bhai incoming outgoing?",
+    "output": "I will update these, eta rent sare paxiko xaina"
+  },
+  {
+    "input": "send the increased invoice",
+    "output": "Huss da, aja i will update everything"
+  },
+  {
+    "input": "huss",
+    "output": "Agi went and saw nirmal dais existing erp"
+  },
+  {
+    "input": "eh huss bhai",
+    "output": "He talked with few pabson ko friends too"
+  },
+  {
+    "input": "yes bhai, at the moment i am more interested in revenue generation. care giver course at least foe now.",
+    "output": "Yes da, din bhari i am working on medics rati on infistaff"
+  },
+  {
+    "input": "have we started on advertising the course yet",
+    "output": "Video banako xau euta, advertising aja or voli ready hunxa"
+  },
+  {
+    "input": "teacher ni chayo",
+    "output": "Yes. Teacher chahi veteko xaina"
+  },
+  {
+    "input": "cv ke ma airako xa bhai. email ma xa",
+    "output": "Email, whatsapp"
+  },
+  {
+    "input": "ali aged or command garna sakne bhaye that is enough for us",
+    "output": "Hmn huss dada"
+  },
+  {
+    "input": "students le pattayaune type ko manxe chayo main",
+    "output": "Huss got it"
+  },
+  {
+    "input": "so increase student reach and let's start a class by february 15th",
+    "output": "Huss dada. I will meet this goal"
+  },
+  {
+    "input": "so target is to recruit 20 students by then",
+    "output": "Huss on it"
+  },
+  {
+    "input": "let's do it bhai",
+    "output": "💪💯hus"
+  },
+  {
+    "input": "la bhai",
+    "output": "True"
+  },
+  {
+    "input": "i gtg hia",
+    "output": "Hus hus"
+  },
+  {
+    "input": "happy new year",
+    "output": "Happy new year dada"
+  },
+  {
+    "input": "finally back in nepal indicates we are new, let's not give any new or old insicationm",
+    "output": "ohh truee"
+  },
+  {
+    "input": "rest looks good bhai",
+    "output": "huss"
+  },
+  {
+    "input": "enrol into uk based caregiver course today. limited seats act fast",
+    "output": "huss"
+  },
+  {
+    "input": "nepali ma pani chayela bhai",
+    "output": "oh ok dada"
+  },
+  {
+    "input": "who said after 3 months. next batch starts in february",
+    "output": "Tyo tarsaideko dada"
+  },
+  {
+    "input": "lol take it off bhai, maile ulto bujhe aru le ni ulto bujhxan",
+    "output": "Coming batch feb bata hai"
+  },
+  {
+    "input": "let's not say that, keep their attention focused on this admission rather then diverting their attention to different admissions",
+    "output": "Huss"
+  },
+  {
+    "input": "yes tehi banau february ko last ma start gardeu la ani",
+    "output": "Huss dada"
+  },
+  {
+    "input": "i like her way of doing videos very confident",
+    "output": "Yes da, we already did agadi, tara scene ramro thena and camera angle"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Hus"
+  },
+  {
+    "input": "hi  ,",
+    "output": "thank you dada"
+  },
+  {
+    "input": "which account is latest bhai, can't find any new after september",
+    "output": "lemme update da"
+  },
+  {
+    "input": "september dekhi no update at all. will you remember everything,",
+    "output": "yes, i have statements"
+  },
+  {
+    "input": "ek ok bhai, can you please do it and send it as soon as you can. i need to calculate expenses so kati ke sustainable huna sakinxa further down the line.",
+    "output": "huss dada"
+  },
+  {
+    "input": "student recruitment lai we are not spending money but generate leads via social media posts etc so please make sure to increase exposure",
+    "output": "Sure dada"
+  },
+  {
+    "input": "best ta we generate revenue so none has to invest further, natra investment has to be both side sayed after this new company update.",
+    "output": "investment chahi herdeina dada,  yes dada, i'll contribute"
+  },
+  {
+    "input": "this way we will be successful natra, garo hunxa sayed",
+    "output": "‎You deleted this message."
+  },
+  {
+    "input": "let's hope the situation will improve instead hai",
+    "output": "can leave anytime da, no contracts"
+  },
+  {
+    "input": "nirmal dai wala and rabu da wala can work from home setup or a small setup hai",
+    "output": "yes"
+  },
+  {
+    "input": "so we are still fine with it",
+    "output": "yes da"
+  },
+  {
+    "input": "let's see yo february samma if not why waste more time on these stuff. we will then divert our focus entirely into coding etc, baru tiny space ma jaula",
+    "output": "yes da, brick by brick"
+  },
+  {
+    "input": "nirmal da sanga arrange a meeting",
+    "output": "huss voli, i'll fix the time"
+  },
+  {
+    "input": "huss bhai",
+    "output": "https://docs.google.com/spreadsheets/d/1CELF5Q-qdYaA_hm5F1G8ril5Dih7NWvdVTEoQsFr5FE/edit?usp=sharing"
+  },
+  {
+    "input": "we need a section for incoming, outgoing natra dekhxa",
+    "output": "Huss"
+  },
+  {
+    "input": "we will get a split of 50 50",
+    "output": "Hus hus"
+  },
+  {
+    "input": "yeutai group ma padhai hunxa it's not about running 2 classes.",
+    "output": "Oh okok"
+  },
+  {
+    "input": "it's about providing certificate for the class they attend and the fees they pay",
+    "output": "Got it dada"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Huss da"
+  },
+  {
+    "input": "call  and speak to her directly, she is happy to guide you",
+    "output": "Huss da"
+  },
+  {
+    "input": "bhai aja course kp video hai,",
+    "output": "Ready xaina da, voli shooting xa"
+  },
+  {
+    "input": "eh ok",
+    "output": "Voli sabei course ko only"
+  },
+  {
+    "input": "bholi saturday",
+    "output": "Yes"
+  },
+  {
+    "input": "eh ok",
+    "output": "Saturday we shoot once a week"
+  },
+  {
+    "input": "arko chayena for sometime.",
+    "output": "Huss"
+  },
+  {
+    "input": "also ctevte ni bhanne ho nai hanron",
+    "output": "Ok dada"
+  },
+  {
+    "input": "pokhara le dinxa ctevte certificate",
+    "output": "Yes"
+  },
+  {
+    "input": "call daddy and let's do group call ahile",
+    "output": "Huss"
+  },
+  {
+    "input": "try local mobile bhain",
+    "output": "Buwa neighbor ko ma da"
+  },
+  {
+    "input": "huss bhia",
+    "output": "‎Video call, ‎6 min"
+  },
+  {
+    "input": "bhai nirmal dai sanga meeting birse xa aja, bholi ma bahira xu, can you please arrange for sunday?",
+    "output": "Huss da"
+  },
+  {
+    "input": "asti male gali gare paxi hola sayed.",
+    "output": "haina da,"
+  },
+  {
+    "input": "ok so, you wanna still stay on coding side?",
+    "output": "only for Parc"
+  },
+  {
+    "input": "huss bhia, but it. months stretch gareko bhaye i could see good going. but may be too late hunxa for you.",
+    "output": "Yes da,"
+  },
+  {
+    "input": "yes bhai",
+    "output": "And Medics Office ko alternative, you will find?"
+  },
+  {
+    "input": "aba ke garne ta find garnai paryo ni, i will find don't worry bhai we will use same office space for now, don't worry",
+    "output": "Huss dada, Documents haru i'll give to  buwa and share i will transfer back"
+  },
+  {
+    "input": "i am outside today, but have updated daft about this quickly s as to find alternative options immediately",
+    "output": "Huss dada"
+  },
+  {
+    "input": "also share me they new guy ko and all other staff ko details, so they can contune what they have been doing",
+    "output": "Huss dada"
+  },
+  {
+    "input": "tha ks bhai",
+    "output": "thank you da."
+  },
+  {
+    "input": "do other staff k ow about this ki not yet?",
+    "output": "not yet"
+  },
+  {
+    "input": "sameer?",
+    "output": "he too doesn't know"
+  },
+  {
+    "input": "ok, shall i speak to him ki you wanna approach him first to see if he is willing to continue.. even when you leave",
+    "output": "oh huss, lemme talk to him"
+  },
+  {
+    "input": "ok, let me know what he says, natra i am happy to speak to him first",
+    "output": "huss dada"
+  },
+  {
+    "input": "eh huss bhiab",
+    "output": "Sujal Bhai"
+  },
+  {
+    "input": "bhai, can you give sujal bhia office ko whatsapp, so he can respond to new in queries there",
+    "output": "He has dada"
+  },
+  {
+    "input": "also bhai when you can, before you leave, kun kun ko user pass details haru ni copy here for me la",
+    "output": "Huss dada"
+  },
+  {
+    "input": "ahile kun xa ra",
+    "output": "App store ko da"
+  },
+  {
+    "input": "feri app store play ma approve gardaina",
+    "output": "Hmn garxa hola i think"
+  },
+  {
+    "input": "also do they have contract with uk based company ki medics ki yourself?? kehi mou 3tc sign xa bhai?",
+    "output": "Xaina da. Just boli ko bhar ma xa"
+  },
+  {
+    "input": "oho kehi mou ta garnu parxa ni bhai, sano",
+    "output": "Huss da, will do tyo ta"
+  },
+  {
+    "input": "aja video recording garyo ta bhai?",
+    "output": "Yes da"
+  },
+  {
+    "input": "if needed only,",
+    "output": "Sure dada"
+  },
+  {
+    "input": " will le you know",
+    "output": "huss"
+  },
+  {
+    "input": "huss bhai thank you",
+    "output": "hus"
+  },
+  {
+    "input": "bhai, facebook haru ma kasle post garirako theyo, also video who was editing medics ko weekend videos i mean.",
+    "output": "sumedha dada, video chahi i was editing"
+  },
+  {
+    "input": "her response is little slow",
+    "output": "true,"
+  },
+  {
+    "input": "can she edit videos though",
+    "output": "yes, she said pahila she can"
+  },
+  {
+    "input": "or he can do it too",
+    "output": "oh yes"
+  },
+  {
+    "input": "work from home ki going to india bhai",
+    "output": "yes da, work from home"
+  },
+  {
+    "input": "eh ok better since it is more predictable and guaranteed income. in fact you could have taken park and similar work for yourself too. but you decided to bring in into the company, nice of you bhai",
+    "output": "thank you dada, :)"
+  },
+  {
+    "input": "thanks bhai",
+    "output": "Sure dada, aramle"
+  },
+  {
+    "input": "so evething is smooth",
+    "output": "sure sure"
+  },
+  {
+    "input": "when are you starting your work though",
+    "output": "aja bata started"
+  },
+  {
+    "input": "eh ok good",
+    "output": "asti applied, hijo choosen and start"
+  },
+  {
+    "input": "ke garnu parne like, software development ki",
+    "output": "yes da, react saas development"
+  },
+  {
+    "input": "eh eh, good you know them already",
+    "output": "no da, found them in reddit 2 days before"
+  },
+  {
+    "input": "no i mean you know react already bhaneko lol",
+    "output": "ae lol, nope. i just said i know react"
+  },
+  {
+    "input": "react and react native no much difference",
+    "output": "yes similar, just file structures different"
+  },
+  {
+    "input": "yes",
+    "output": "ani a bit code"
+  },
+  {
+    "input": "la la bhai good luck",
+    "output": "ani doing backend Django ma"
+  },
+  {
+    "input": "that's another php ki javascript?",
+    "output": "sumedha sanga talked, she knows re video editing"
+  },
+  {
+    "input": "oh python based web framework",
+    "output": "yes yes"
+  },
+  {
+    "input": "eh ok hunxa",
+    "output": "eta Parc ko aba 55k auna baaki xa da"
+  },
+  {
+    "input": "ok",
+    "output": "Dada ke vannu"
+  },
+  {
+    "input": "ma sanga kura garnu bhannu ni",
+    "output": "Huss"
+  },
+  {
+    "input": "medics ko gmail details bhai",
+    "output": "Hus"
+  },
+  {
+    "input": "last ma 19 your phone? verification code check bhiab",
+    "output": "ohh office mei xa dada"
+  },
+  {
+    "input": "eh company ko hola don't worry will do it tomorrow",
+    "output": "huss"
+  },
+  {
+    "input": "nepal ko whatsapp ko login ke xa bhai, mero yaha bata ni hola ni hai",
+    "output": "9803691619 da"
+  },
+  {
+    "input": "bhai  le students details pathako xaina?",
+    "output": "no da, she said she will give the students our office number"
+  },
+  {
+    "input": "oh, ok bhai thank you, i will speak to her.",
+    "output": "huss"
+  },
+  {
+    "input": "also  le ke bhanera gayo",
+    "output": "she still creating title haru"
+  },
+  {
+    "input": "eh ok, until when she said any idea yet?",
+    "output": "hijo, rati ni kura vaako ho"
+  },
+  {
+    "input": "afno work mathi",
+    "output": "vyainxa dada"
+  },
+  {
+    "input": "eh ok, huss bhia thank you,",
+    "output": "huss:)"
+  },
+  {
+    "input": "can you please share it with her.",
+    "output": "Huss da, sharing now"
+  },
+  {
+    "input": "weekend ma video banauna auda, you used yo go with keys etc hai. baki setup as it is xa video lai ki need something else extra to continue?",
+    "output": "Phone need hunxa da euta. And tripod. Ani she needa script to make"
+  },
+  {
+    "input": "script ta sumedha le garxa hoina ra",
+    "output": "I used to write"
+  },
+  {
+    "input": "oh ok",
+    "output": "No da, uta samprada authyo and i use to go in Saturday"
+  },
+  {
+    "input": "eh ok, just trying to figure out kasari milaune bhanera",
+    "output": "I have taught sujal lai halka script lekhna"
+  },
+  {
+    "input": "sujal janxa re weekend ma?",
+    "output": "Nai. Tyo kura vaako ta xaina"
+  },
+  {
+    "input": "script ta chatgpt can do it, teti gato bhayena, manxe jane wala i need to sort",
+    "output": "Yes"
+  },
+  {
+    "input": "huss bhia thank you for your help. send video to sumedha la",
+    "output": "Huss"
+  },
+  {
+    "input": "let me know exact issue so we can move forward by sorting it rather than, hiding actual thoughts inside. communication solves everything bhai. rethink and let's talk.",
+    "output": "Yes da. Karan tei ho da. For 1-2 years i have to give support bunu lai. Uta dad is recovering too, so we both need to help. Tespaxi matra i can think of doing something for myself"
+  },
+  {
+    "input": "baru best move salla garera yesto yesto xa le garne da bhaneko bhaye we could have thought of alternatives etc.",
+    "output": "True, I got too stressed and anxious, low sleep from works. Also i was impatient, because bunu would come here. i think yei sabeile affected me"
+  },
+  {
+    "input": "tehi bhayera, rethink, ahile ni kehi bigreko xaina bhai. feri uta name hatauna hatar gare bhane, it will be too late.",
+    "output": "haina da, its ok. i will work for few years aba, tespaxi will think of getting in a business"
+  },
+  {
+    "input": "eh huss bhai, if that is  what you genuinely prefer. i will be very happy for you.",
+    "output": "Thank you dada for understanding :)"
+  },
+  {
+    "input": "thank you bhai",
+    "output": "dada, free vako bela yo gardisola, ani will send parc for review"
+  },
+  {
+    "input": "phone bata ni milxa hola. i will do it today don't worry",
+    "output": "huss, thank you da"
+  },
+  {
+    "input": "kun email ma ho yo bhai, can't find this on my usual email",
+    "output": "yo medics senior care wala ho da"
+  },
+  {
+    "input": "humm email kun theyo, sayed infistaff wala hola",
+    "output": "hmn name chahi  Nepal vanera xa"
+  },
+  {
+    "input": "ho taha paye but tried everything, katai kehi agreement accept garne option xaina",
+    "output": "https://developer.apple.com/account/?teamId=LVQGU2CVNX"
+  },
+  {
+    "input": "xaina bhai agreements sabai thau ma search gare xaina katai",
+    "output": "ohh"
+  },
+  {
+    "input": "accept hard ake hunxa",
+    "output": "uta parc ko app lai submit garna milxa ani"
+  },
+  {
+    "input": "natra we ha e to wait u tip tomorrow",
+    "output": "ae nai da, xaina, yo stackoverflow ko ho"
+  },
+  {
+    "input": "huss bhai don't worry will do tomorrow la as early as possible",
+    "output": "huss dad, :)"
+  },
+  {
+    "input": "bhaia done hai agreed now itr should work",
+    "output": "Thank you da"
+  },
+  {
+    "input": "let me know as soon as you can.",
+    "output": "Sure dada. This we can do. Work from home we can do. Bootstrap way ma."
+  },
+  {
+    "input": "medics ko app pani i think we can sell it",
+    "output": "oh online or in-person da?"
+  },
+  {
+    "input": "jasari sakinxa kasaile lanxa bhane sell gardida bhai halyo ni.",
+    "output": "huss dada"
+  },
+  {
+    "input": "ma ni yo chimeki ma kaam agadi badaudai garxu, sameer lai ni laravel sikna time deko xu, he will also develop this application",
+    "output": "Huss dada,"
+  },
+  {
+    "input": "nirmal dai wala, if you think he can genuinely sell, we can develop that too after purchasing the code. what do you think.",
+    "output": "yes da, He said he can sell to 100 schools. euta meeting basna parla"
+  },
+  {
+    "input": "yes bhai, 1 online meeting will do, he is not willing to invest even a penny though so commission ma 30;70 plot we should do think.",
+    "output": "oh right"
+  },
+  {
+    "input": "kura garau na, he will push i am sure because money bhane paxi mahadevi ko trinetra ho nirmal dai ko, so you know this before meeting lol",
+    "output": "🤣🤣ahahaha"
+  },
+  {
+    "input": "120 ko feri further split, so further investment and stress is not worth jasto lagyo, so i need to arrange a meeting and close down. completely",
+    "output": "true, tyo SaaS ko chahi expected revenue is 10 lakh per year if 100 schools subscribe"
+  },
+  {
+    "input": "120 pani incase every month full swing students bhako ma natra that is still a hyped data",
+    "output": "oh right"
+  },
+  {
+    "input": "tyo is good because tesma tetro input hunna ni mostly automated hunxa.",
+    "output": "yes da"
+  },
+  {
+    "input": "yesma 1 crore 20 lakh bhaye ni too much people handling, etc hunxa",
+    "output": "true"
+  },
+  {
+    "input": "speak later",
+    "output": "Huss dada sure"
+  },
+  {
+    "input": "phon ta jpt theyo ni hai?",
+    "output": "Just pugera aye da"
+  },
+  {
+    "input": "oh ho ra. kata gaye bhayexa ta mora.",
+    "output": "Haha khai"
+  },
+  {
+    "input": "sayed pokhara sanga ma kaam gardaina bhane paxi, uta kaam garne bhayo ki. bhaneko bhaye hunthyo ni",
+    "output": "Hmnn"
+  },
+  {
+    "input": "la bhai thanks. if all good. key tehi sanga rahayo. bholi aula ki",
+    "output": "Hmnn teita"
+  },
+  {
+    "input": "phone nai uthayena bhanera message garnu bhako theyo daddy le. mero ni whatsapp ko response xaina. ke ho ke",
+    "output": "Hmn"
+  },
+  {
+    "input": "check this",
+    "output": "Woahh"
+  },
+  {
+    "input": "led light ni added xa ahile offn",
+    "output": "Interior u did?"
+  },
+  {
+    "input": "yes bhai all feom scratch, even cabinets i built them all",
+    "output": "Woah nice. Sleek and modern looks"
+  },
+  {
+    "input": "100watt rms",
+    "output": "Damnn"
+  },
+  {
+    "input": "sub is 200w rms",
+    "output": "💨full bass mode"
+  },
+  {
+    "input": "community d6 and dsub10 both from community",
+    "output": "Nicee."
+  },
+  {
+    "input": "bass level 1 mai xa. khali movie herda dami hunxa",
+    "output": "Oh lol. Only flats tesovaye"
+  },
+  {
+    "input": "yes unfortunately,",
+    "output": "Haha"
+  },
+  {
+    "input": "la bhai spekak later. ahile yo finishing off, yo side mero work side ali few weeks break paxi start garxu",
+    "output": "Hus hus. Aramle da"
+  },
+  {
+    "input": "he said phone ko display bigreko theyo re. that is all he wrote lol",
+    "output": "Haha yes dada"
+  },
+  {
+    "input": "bardai theyo ke garne bhayexa",
+    "output": "Ae ok, navaye ghar batei garxa ni ta"
+  },
+  {
+    "input": "ahile lai. ali 10 jana jati puge paxi, sano office space linda bhayo",
+    "output": "True. Huss dada"
+  },
+  {
+    "input": "then",
+    "output": "Huss dada"
+  },
+  {
+    "input": "huss bhai",
+    "output": "also da, SBP ma i can take some workload from  di"
+  },
+  {
+    "input": " le garxa sbp side, asti kura bhai sakeko xa bhai. so it's ok don't worry, but thank you bhai.",
+    "output": "oh huss dada"
+  },
+  {
+    "input": "huss bhai thank you",
+    "output": ":)"
+  },
+  {
+    "input": "sayed usle le ani  bich kura bhai sakeko xa yesko bare.",
+    "output": "Mac brought, i am fixing parc"
+  },
+  {
+    "input": "yes i told daddy to give it to you. natra app ma problem auxa ni ios side ma without one",
+    "output": "True. Already setup."
+  },
+  {
+    "input": "do you know of  is back",
+    "output": "Didi is in brt nei"
+  },
+  {
+    "input": "eh ok 13 days nai basne bhayexa sayed. ghar ma manxe auxan yeta uti tannai kaam hunxa",
+    "output": "True da"
+  },
+  {
+    "input": "aja bholi jahile garda ni hunxa bhai",
+    "output": "Oh huss voli lets do"
+  },
+  {
+    "input": "bhai nepal ma staff haru lai kahile salary pay garne gareko theyo. pay garne time bhayo hola? let me know pay garera bida garxu few lai",
+    "output": "haina da, English date mei hunxa"
+  },
+  {
+    "input": "eh ok teso bhaye, huss thanks bhai",
+    "output": "huss :)"
+  },
+  {
+    "input": "app ko issue dekhai rako xa,, yopu on it??",
+    "output": "yes da\\"
+  },
+  {
+    "input": "maile hereko xuina la, parc app,, so let me know if you need my help,, you ios ko submission ma",
+    "output": "huss, eta me solving"
+  },
+  {
+    "input": "huss bhai",
+    "output": "Dada"
+  },
+  {
+    "input": "hello bhai",
+    "output": "Hello dada"
+  },
+  {
+    "input": "extra xa bhane ho,",
+    "output": "Yes da. Extra 2 wota xa"
+  },
+  {
+    "input": "ask daddy, kati wota pc ho hamro 3 ki 2?",
+    "output": "2 wota windows euta mac"
+  },
+  {
+    "input": "oh, check with daddy he wants to give it to someone or sell it",
+    "output": "Yes he gave green light"
+  },
+  {
+    "input": "1 pc set ko",
+    "output": "Ae pc set haina da"
+  },
+  {
+    "input": "huss yes",
+    "output": "2 wotei buwa ko home ma"
+  },
+  {
+    "input": "maile ta pc socheko",
+    "output": "Ae okok"
+  },
+  {
+    "input": "spare ta ho",
+    "output": "Yes da spare"
+  },
+  {
+    "input": "tehi, so slll it for anything",
+    "output": "Huss"
+  },
+  {
+    "input": "hello,",
+    "output": "Yes da tei doing. Balla understood problem"
+  },
+  {
+    "input": "i have been struggling with 1 piece of code for last 2 days ,, it nearly wrks and it fails again",
+    "output": "Yes da hes good"
+  },
+  {
+    "input": "ahile balloon face is not tracking and gliding on the sinewave path,, that needs fixing rest is already done",
+    "output": "oh got it, sure dada"
+  },
+  {
+    "input": "do mou too bhai. very important, so we know shares and monthly etc in a signed paper for the sake of documentation and other issues etc",
+    "output": "Yes da, meeting hunxa aja or voli belka"
+  },
+  {
+    "input": "yeta server lai chainxa bhannu ni host garna, natra verify gardaina",
+    "output": "Huss dada will do it"
+  },
+  {
+    "input": "jimma lagaideu ta uslai chineko6ko yeuta module?",
+    "output": "😂😂🤣"
+  },
+  {
+    "input": "natra ta barsau samma sikerai basyo bhane feri hai",
+    "output": "Teii da"
+  },
+  {
+    "input": "ma herxu",
+    "output": "Huss"
+  },
+  {
+    "input": "also chimeki ko spelling wrong rahixa chhimeki rahixa,, so domain needs changing paxi lai",
+    "output": "Oh no"
+  },
+  {
+    "input": "kehi bhayena development lai farak parena",
+    "output": "Right. Hosting ma euta name change. Garda pugla"
+  },
+  {
+    "input": "tyo js ko ni sakina dai bhanera message garyo aja",
+    "output": "Yess"
+  },
+  {
+    "input": "mou bhayo bhai",
+    "output": "xaina da, voli meeting basne kura xa"
+  },
+  {
+    "input": "eh eh huss bhai. please update me la",
+    "output": "Huss"
+  },
+  {
+    "input": "bhai you around??",
+    "output": "yes da"
+  },
+  {
+    "input": "sameer sanga kura bhai rako xa??",
+    "output": "yes da, bela bela"
+  },
+  {
+    "input": "do you know what is he up to??",
+    "output": "hmnn, not much idea dada"
+  },
+  {
+    "input": "khali front end matra garxu bhanx..",
+    "output": "ohh"
+  },
+  {
+    "input": "also any development on parc app??",
+    "output": "ohh"
+  },
+  {
+    "input": "so no meeting today either??",
+    "output": "astiko banako jati nei submitted"
+  },
+  {
+    "input": "have you met rabu da lately??",
+    "output": "no da, aja ni vayena"
+  },
+  {
+    "input": "eh ok,, so we have no update on parc side,, are they actually willing to kick start parc app ,, ki they are facing issues??",
+    "output": "they are going to kickstart they said, malai facebook page, etc haru banaunu laako hoisinxa"
+  },
+  {
+    "input": "do you want m eto draft an mou so they can sign during next meeting??",
+    "output": "yes da, 55 baaki xa, 25 chahi, they said not to update, etc"
+  },
+  {
+    "input": "they will stop paying that to us??",
+    "output": "yes da"
+  },
+  {
+    "input": "ok then we will not go ahead, there is a huge server cost,, how will we meet that??",
+    "output": "i will ask for maintenance cost per month ko"
+  },
+  {
+    "input": "hile po sittai ma mero existing s ebhako xa,, paxi marketing paxi server ko spike kasari handle garne",
+    "output": "true dada"
+  },
+  {
+    "input": "yes tell them clearly,, server ko kasko bow le pay garxa bhaner",
+    "output": "huss dada"
+  },
+  {
+    "input": "testo mindset le kasari hunxa bhai",
+    "output": "yes da, they said, ma pani partner ho, i will have to give maintenance"
+  },
+  {
+    "input": "make them clear we have server cost to handle ,, and especially parking style need instant update,, map ko api?? google ko ni kehi parxa bhai that contributes toards cost ??",
+    "output": "yes dada, yo sab alik clear garnu parne xa kura haru, i am waiting for a meeting"
+  },
+  {
+    "input": "what do you mean,, you are a partner of parc app??",
+    "output": "we dada"
+  },
+  {
+    "input": "ok",
+    "output": "plus marketing cost ni lina khojdeixu"
+  },
+  {
+    "input": "yes 25% share so no maintenance that si what they saying??",
+    "output": "for Instagram, facebook etc post and all"
+  },
+  {
+    "input": "oh ok bhai",
+    "output": "yes, yeso chahi ho da, suruma we asked for 40k per month for maintenance and update"
+  },
+  {
+    "input": "tara tell them cost uniharu ko bhanda your cost is getting up,, they must pay at least some money monthly towards server and api costs..",
+    "output": "tara esma regular update haru ko kura thiyo"
+  },
+  {
+    "input": "natra it goes from your pocket monthloy,,",
+    "output": "huss dada, this meeting ma sabei clear hunxa"
+  },
+  {
+    "input": "ok that makes sense now",
+    "output": "yes da, maintenance cost ko kura rakhya xaina"
+  },
+  {
+    "input": "so tell me ,, ma mpou gardeu ta with these datils or after this meeting bhai??",
+    "output": "yes dada"
+  },
+  {
+    "input": "they were but now they want to stop that, haina",
+    "output": "40k suruko thiyo, so 20-25 they will pay month ko\\"
+  },
+  {
+    "input": "if this is correct i will draft mou this way hai ta",
+    "output": "yes da"
+  },
+  {
+    "input": "hus sbhai thank you,... will do it ad send it to you , you can then take it from there",
+    "output": "huss thank you dad"
+  },
+  {
+    "input": "also sameer si of no use to me ,, i am thinking fo giving him a notice,,,",
+    "output": "sure dada"
+  },
+  {
+    "input": "i will teel him,, so you don't give him a clue hai",
+    "output": "huss huss"
+  },
+  {
+    "input": "paxi aru development lai manxe chayema ,, we can always get proactive person i guess if not upwork is always there",
+    "output": "yes, fiverr upwork wull do"
+  },
+  {
+    "input": "huss bhai",
+    "output": "huss"
+  },
+  {
+    "input": "he said he could not",
+    "output": "ohh"
+  },
+  {
+    "input": "how is your new work going on??",
+    "output": "true"
+  },
+  {
+    "input": "what time do you work for them",
+    "output": "going good dada"
+  },
+  {
+    "input": "eh not bad hours then",
+    "output": "yes da, deuso chahi tesmei janxa time"
+  },
+  {
+    "input": "also  le certificate pathaula you still need to sign and take money , last time ko 2 k theyo bhandai theyo",
+    "output": "yes dada"
+  },
+  {
+    "input": "i told her give it to you",
+    "output": "last time ko 2k ko ho"
+  },
+  {
+    "input": "ho ani new ni hunxa re chittai",
+    "output": "oh right, buwa was saying asti"
+  },
+  {
+    "input": "huss bhai",
+    "output": "hus"
+  },
+  {
+    "input": "parc app medics ma gaye xx ki kata gaye a ta android ko?",
+    "output": "android xaina launched dada"
+  },
+  {
+    "input": "huna ta google ko free ho feri apply garna sakinxa sayed",
+    "output": "right dada, yo week ma android ma ill push"
+  },
+  {
+    "input": "huss bhai",
+    "output": "hus"
+  },
+  {
+    "input": "bholi nai meeting na hola ni hai. coz i haven't done mou yet",
+    "output": "yes da, voli thahunxa morning tira"
+  },
+  {
+    "input": "huss",
+    "output": "hus"
+  },
+  {
+    "input": "who is the guy that took the studio light? is he your friend?",
+    "output": "yes da, shreyash vanne ho"
+  },
+  {
+    "input": "light bechnu theyena malai.",
+    "output": "ae ok da, can bring back"
+  },
+  {
+    "input": "studio lights are important for us too.",
+    "output": "Huss dada, voli firta garaidinxu"
+  },
+  {
+    "input": "what is your friend starting a new business marketing??",
+    "output": "Yes da, digital marketing"
+  },
+  {
+    "input": "you too partnering?",
+    "output": "I edit his videos"
+  },
+  {
+    "input": "humm glad you get time leaving one business and joined another business",
+    "output": "didn’t get dada"
+  },
+  {
+    "input": "don't worry",
+    "output": "I work part time salary basis ma dada here"
+  },
+  {
+    "input": "where is your new office location?",
+    "output": "No da, no update teta bata"
+  },
+  {
+    "input": "eh eh",
+    "output": "i work remote da"
+  },
+  {
+    "input": "la la bhai let me k ow when they go for meeting.",
+    "output": "Huss da"
+  },
+  {
+    "input": "yes send bhai",
+    "output": "hus"
+  },
+  {
+    "input": "did they pay this month. kura ke bhayo kaso bhayo i have no clue",
+    "output": "sure da"
+  },
+  {
+    "input": "do you know how long he is gonna take??",
+    "output": "no da, asti chahi he did in two days"
+  },
+  {
+    "input": "eh ok,, kina time liyexa ta feri mora le",
+    "output": "after that 2 days for registrar office"
+  },
+  {
+    "input": "anyways let me know when he is done hai , so i can update emy new partner and make him wait",
+    "output": "sure da"
+  },
+  {
+    "input": "bhai also drive me kunai kunai files folder ko ownership transfer still baki xa jasto xa,, can you please transfer when you are free",
+    "output": "huss"
+  },
+  {
+    "input": "bhai, if you wish to move parc app elsewhere please do so. also malai mac chaine bhayo for our own production, which you can give it to daddy",
+    "output": "Ae ok da. Huss"
+  },
+  {
+    "input": "let me know hai once you move app as i need to add my other partner after this so he gets access instead",
+    "output": "sure da"
+  },
+  {
+    "input": "bhai , did you return the sim card? also did you manage to move parc app yet?",
+    "output": "parc yes da, i am downloaded will move, ani sim card sujal bahira xa, belka auxu Vanya xa lina"
+  },
+  {
+    "input": "let me know if you need anything from me so this parck can speed up...",
+    "output": "you can remove dada, siteground bata"
+  },
+  {
+    "input": "ani app store bata ,,,",
+    "output": "yes da,"
+  },
+  {
+    "input": "huss bhai will do hai ta teso bhaye..",
+    "output": "ok da"
+  },
+  {
+    "input": "ok sending it bhai",
+    "output": "thank you dada"
+  },
+  {
+    "input": "no worries bhai",
+    "output": "oh on it dada"
+  },
+  {
+    "input": "huss bhai thank you",
+    "output": "sent"
+  },
+  {
+    "input": "how is you rnew work going on??",
+    "output": "going good dada"
+  },
+  {
+    "input": "good good",
+    "output": "learning things, its good"
+  },
+  {
+    "input": "huss bhai thank you",
+    "output": "huss dada :)"
+  },
+  {
+    "input": "ok i am away for 2 days back ayera we will sort don't worry",
+    "output": "Huss huss"
+  },
+  {
+    "input": "bhai ke link bhako, can you tell me so i can remove it",
+    "output": "Facebook account dada"
+  },
+  {
+    "input": "ke ma link xa",
+    "output": "I have access to them"
+  },
+  {
+    "input": "ok facebook page haru",
+    "output": "Yes"
+  },
+  {
+    "input": "ok ma afternoon ma try garxu hai ta hatauna lai",
+    "output": "Huss dada"
+  },
+  {
+    "input": "removed hai bhai,, aru ki kehi xa bhane let em know i will fix it",
+    "output": "hus"
+  },
+  {
+    "input": "thank you bhai,, how is your new work going on?? all good?/",
+    "output": "ekdam good dada."
+  },
+  {
+    "input": "hello, bhai hope you are doing well. can you transfer the ownership of this please",
+    "output": "hello da, huss on it"
+  }
+]
