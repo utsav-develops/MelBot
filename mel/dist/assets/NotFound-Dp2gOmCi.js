@@ -1,0 +1,1 @@
+import{u as n,j as o}from"./index-B27bom8n.js";import{B as s}from"./button-DzBotoVR.js";function i(){const t=n();return o.jsxs("div",{children:[o.jsx("h2",{children:"404 - Page not found"}),o.jsx(s,{onClick:()=>t(-1),children:"Go back"})]})}export{i as default};
