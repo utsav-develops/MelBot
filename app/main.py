@@ -26,7 +26,7 @@ app.add_middleware(
         "http://localhost:5173",  # Vite dev server
         "http://localhost:4173",  # Vite dev server
         "http://localhost:3000",  # just in case
-        "https://yourdomain.com", # your production frontend
+        "https://melbot.utsav.work", # your production frontend
     ],
     allow_credentials=True,  # allows cookies and auth headers
     allow_methods=["*"],     # allows GET, POST, PUT, DELETE, OPTIONS etc
