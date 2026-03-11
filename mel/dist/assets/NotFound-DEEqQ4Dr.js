@@ -1,0 +1,1 @@
+import{u as n,j as o}from"./index-HWVd5kD-.js";import{B as s}from"./button-uG3s0hMg.js";function i(){const t=n();return o.jsxs("div",{children:[o.jsx("h2",{children:"404 - Page not found"}),o.jsx(s,{onClick:()=>t(-1),children:"Go back"})]})}export{i as default};
