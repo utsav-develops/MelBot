@@ -33,18 +33,7 @@ app.add_middleware(
     allow_headers=["*"],     # allows Content-Type, Authorization etc
 )
 
-app.include_router(health.router)
+app.include_router(health.router, prefix="/api")
 app.include_router(chat.router, prefix="/api")
 app.include_router(push.router, prefix="/api")
 app.include_router(reminder.router, prefix="/api")
-
-
-# @app.exception_handler(RequestValidationError)
-# async def validation_exception_handler(request: Request, exc: RequestValidationError):
-#     print("422 validation error:", exc.errors())
-#     print("body received:", exc.body)
-    
-#     return JSONResponse(
-#         status_code=422,
-#         content={"detail": jsonable_encoder(exc.errors())}  # ← fixes the bytes crash
-#     )

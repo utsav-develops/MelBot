@@ -4,5 +4,3 @@ frontend/
 .venv/
 .env
 subscriptions.json
-app/misc
-app/training_data
